@@ -1,0 +1,186 @@
+[12:17:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:17:08] [ServerMain/INFO]: Loaded 7 recipes
+[12:17:09] [Server thread/INFO]: Starting minecraft server version 1.20
+[12:17:09] [Server thread/INFO]: Loading properties
+[12:17:09] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[12:17:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:17:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:17:09] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[12:17:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[12:17:09] [Server thread/INFO]: Default game type: SURVIVAL
+[12:17:09] [Server thread/INFO]: Generating keypair
+[12:17:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:17:09] [Server thread/INFO]: Using epoll channel type
+[12:17:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:17:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[12:17:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:17:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:17:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:17:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:17:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:17:10] [Server thread/INFO]: Preparing level "world"
+[12:17:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:17:10] [Server thread/INFO]: Time elapsed: 232 ms
+[12:17:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:17:10] [Server thread/INFO]: Time elapsed: 64 ms
+[12:17:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:17:10] [Server thread/INFO]: Time elapsed: 47 ms
+[12:17:10] [Server thread/INFO]: Running delayed init tasks
+[12:17:10] [Server thread/INFO]: Done (1.533s)! For help, type "help"
+[12:17:10] [Server thread/INFO]: Timings Reset
+[12:17:15] [Server thread/INFO]: Server Plugins (0):
+[12:17:16] [User Authenticator #0/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[12:17:19] [Server thread/INFO]: neoangu joined the game
+[12:17:19] [Server thread/INFO]: neoangu[/127.204.135.86:44655] logged in with entity id 332 at ([world]-12.525179610271637, 68.0, 23.63448735410112)
+[12:18:40] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[12:18:47] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[12:18:47] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[12:18:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:18:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:18:48] [Server thread/INFO]: Loaded 7 recipes
+[12:18:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:18:48] [Server thread/INFO]: CONSOLE: Reload complete.
+[12:18:48] [Server thread/INFO]: Timings Reset
+[12:18:51] [Server thread/INFO]: Server Plugins (0):
+[12:19:04] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[12:19:07] [Server thread/INFO]: neoangu has made the advancement [Stone Age]
+[12:19:07] [Server thread/INFO]: Checking version, please wait...
+[12:19:07] [Thread-7/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+You are running the latest version
+[12:19:18] [Server thread/INFO]: neoangu has made the advancement [Getting an Upgrade]
+[12:19:28] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[12:19:28] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[12:19:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:19:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:19:29] [Server thread/INFO]: Loaded 7 recipes
+[12:19:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:19:29] [Server thread/INFO]: CONSOLE: Reload complete.
+[12:19:29] [Server thread/INFO]: Timings Reset
+[12:19:34] [Server thread/INFO]: Server Plugins (0):
+[12:21:32] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[12:21:32] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[12:21:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:21:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:21:32] [Server thread/INFO]: Loaded 7 recipes
+[12:21:33] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.1.0
+[12:21:33] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.0 is now loaded. Registering protocol transformers and injecting...
+[12:21:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[12:21:34] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[12:21:34] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[12:21:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:21:34] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[12:21:34] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[12:21:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.0.
+[12:21:35] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[12:21:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.0
+[12:21:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[12:21:35] [Server thread/INFO]: CONSOLE: Reload complete.
+[12:21:35] [Server thread/INFO]: Timings Reset
+[12:21:35] [Craft Scheduler Thread - 8 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[12:21:35] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.1.0
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     Version: 15.4.3
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version (15.4.4) is available! Downloading update...
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 476ms
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[12:21:35] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[12:21:43] [Server thread/INFO]: Server Plugins (2):
+[12:21:43] [Server thread/INFO]: Bukkit Plugins:
+[12:21:43] [Server thread/INFO]:  - SkinsRestorer, ViaVersion
+[12:22:13] [Server thread/INFO]: neoangu issued server command: /kill
+[12:22:25] [User Authenticator #1/INFO]: UUID of player angelDL_ is b1a45e93-1bcd-3fbd-b7e8-694ccfeced0c
+[12:22:25] [Server thread/INFO]: angelDL_ joined the game
+[12:22:25] [Server thread/INFO]: angelDL_[/127.53.1.160:52153] logged in with entity id 985 at ([world]1.5, 67.0, 4.5)
+[12:23:25] [Server thread/INFO]: angelDL_ has made the advancement [Getting an Upgrade]
+[12:23:59] [Server thread/INFO]: angelDL_ issued server command: /skin 8
+[12:24:37] [Server thread/INFO]: neoangu lost connection: Disconnected
+[12:24:37] [Server thread/INFO]: neoangu left the game
+[12:25:01] [User Authenticator #2/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[12:25:02] [Server thread/INFO]: neoangu joined the game
+[12:25:02] [Server thread/INFO]: neoangu[/127.204.135.86:50673] logged in with entity id 1366 at ([world]-17.720121284345517, 67.0, -34.154655036593816)
+[12:25:09] [Server thread/INFO]: neoangu issued server command: /skin
+[12:25:19] [Server thread/INFO]: neoangu issued server command: /skin panda
+[12:26:54] [Server thread/INFO]: angelDL_ has made the advancement [Sweet Dreams]
+[12:26:55] [Server thread/INFO]: neoangu has made the advancement [Sweet Dreams]
+[12:27:39] [Server thread/INFO]: angelDL_ has made the advancement [Stone Age]
+[12:28:49] [Server thread/INFO]: neoangu has made the advancement [The Parrots and the Bats]
+[12:33:48] [Server thread/INFO]: neoangu has made the advancement [Monster Hunter]
+[12:33:51] [Async Chat Thread - #1/INFO]: [Not Secure] <angelDL_> 446 -227
+[12:43:54] [Server thread/WARN]: neoangu moved too quickly! -7.883621038977026,-0.49520087700592086,-9.134092353875417
+[12:45:12] [Server thread/INFO]: angelDL_ issued server command: /op
+[12:45:19] [Server thread/INFO]: angelDL_ issued server command: /gamemode c
+[12:45:20] [Server thread/INFO]: neoangu has made the advancement [Acquire Hardware]
+[12:45:26] [Server thread/INFO]: angelDL_ has made the advancement [Acquire Hardware]
+[12:46:01] [Server thread/INFO]: angelDL_ has made the advancement [Isn't It Iron Pick]
+[12:46:10] [Server thread/INFO]: neoangu has made the advancement [Isn't It Iron Pick]
+[12:47:00] [Server thread/INFO]: The difficulty has been set to Normal
+[12:50:55] [Server thread/INFO]: neoangu has made the advancement [Not Today, Thank You]
+[12:51:01] [Server thread/INFO]: angelDL_ has made the advancement [Monster Hunter]
+[12:58:32] [Server thread/INFO]: angelDL_ has made the advancement [Not Today, Thank You]
+[13:01:03] [Server thread/INFO]: angelDL_ has made the advancement [Suit Up]
+[13:01:42] [Server thread/INFO]: neoangu has made the advancement [Suit Up]
+[13:07:55] [Server thread/INFO]: angelDL_ has made the advancement [Diamonds!]
+[13:08:02] [Server thread/INFO]: neoangu has made the advancement [Diamonds!]
+[13:08:12] [Server thread/INFO]: angelDL_ has made the advancement [Hot Stuff]
+[13:08:30] [Server thread/INFO]: neoangu has made the advancement [Hot Stuff]
+[13:14:55] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[13:14:55] [Server thread/INFO]: neoangu lost connection: Timed out
+[13:14:55] [Server thread/INFO]: neoangu left the game
+[13:15:26] [User Authenticator #3/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[13:15:26] [Server thread/INFO]: neoangu joined the game
+[13:15:26] [Server thread/INFO]: neoangu[/127.204.135.86:38267] logged in with entity id 11068 at ([world]770.9994908160161, -17.0, -717.6999999880791)
+[13:25:09] [Server thread/INFO]: angelDL_ has made the advancement [Ice Bucket Challenge]
+[13:26:22] [Server thread/INFO]: neoangu has made the advancement [Ice Bucket Challenge]
+[13:29:19] [Server thread/INFO]: angelDL_ has made the advancement [Enchanter]
+[13:29:36] [Async Chat Thread - #2/INFO]: [Not Secure] <neoangu> me das libro??
+[13:29:59] [Async Chat Thread - #3/INFO]: [Not Secure] <neoangu> por ahy en 10 min vuelvo a habalr
+[13:29:59] [Async Chat Thread - #2/INFO]: [Not Secure] <angelDL_> no puedes hablasr?
+[13:30:07] [Async Chat Thread - #3/INFO]: [Not Secure] <angelDL_> ok
+[13:30:23] [Server thread/INFO]: neoangu has made the advancement [Enchanter]
+[13:31:25] [Async Chat Thread - #4/INFO]: [Not Secure] <neoangu> pera
+[13:43:01] [Server thread/INFO]: Stopping the server
+[13:43:01] [Server thread/INFO]: Stopping server
+[13:43:01] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
+[13:43:01] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.0
+[13:43:01] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[13:43:01] [Server thread/INFO]: Saving players
+[13:43:01] [Server thread/INFO]: angelDL_ lost connection: Server closed
+[13:43:01] [Server thread/INFO]: angelDL_ left the game
+[13:43:01] [Server thread/INFO]: neoangu lost connection: Server closed
+[13:43:01] [Server thread/INFO]: neoangu left the game
+[13:43:01] [Server thread/INFO]: Saving worlds
+[13:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:43:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:43:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:43:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Saved 1627 block chunks, 363 entity chunks, 5 poi chunks in world 'world' in 0.90s
+[13:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 20 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[13:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:43:02] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[13:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:43:02] [Server thread/INFO]: Flushing Chunk IO
+[13:43:02] [Server thread/INFO]: Closing Thread Pool
+[13:43:02] [Server thread/INFO]: Closing Server
