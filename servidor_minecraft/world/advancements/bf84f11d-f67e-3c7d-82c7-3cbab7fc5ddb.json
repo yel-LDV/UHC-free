@@ -275,7 +275,8 @@
       "cooked_beef": "2024-12-02 08:59:35 +0000",
       "bread": "2024-12-02 09:16:39 +0000",
       "golden_apple": "2024-12-02 09:31:31 +0000",
-      "rotten_flesh": "2024-12-02 09:18:05 +0000"
+      "rotten_flesh": "2024-12-02 09:18:05 +0000",
+      "cooked_chicken": "2024-12-02 09:39:36 +0000"
     },
     "done": false
   },
@@ -531,6 +532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-02 09:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-02 09:04:14 +0000"
@@ -681,6 +688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-02 09:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-02 09:22:04 +0000"
@@ -819,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-02 09:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-02 08:56:49 +0000"
@@ -882,6 +901,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 09:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-02 09:40:24 +0000"
     },
     "done": true
   },
@@ -1502,6 +1527,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-02 09:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-02 09:43:25 +0000"
     },
     "done": true
   },
