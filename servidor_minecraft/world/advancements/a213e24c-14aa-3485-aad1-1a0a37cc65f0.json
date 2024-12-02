@@ -11,6 +11,7 @@
       "minecraft:bamboo_jungle": "2024-12-02 06:16:00 +0000",
       "minecraft:beach": "2024-12-01 12:32:00 +0000",
       "minecraft:mangrove_swamp": "2024-12-01 12:31:09 +0000",
+      "minecraft:sparse_jungle": "2024-12-02 07:01:04 +0000",
       "minecraft:river": "2024-12-01 12:32:13 +0000",
       "minecraft:stony_shore": "2024-12-02 06:19:32 +0000",
       "minecraft:forest": "2024-12-01 12:34:48 +0000",
@@ -375,7 +376,8 @@
       "cooked_porkchop": "2024-12-01 12:25:31 +0000",
       "cooked_mutton": "2024-12-02 06:07:12 +0000",
       "cooked_beef": "2024-12-01 12:32:07 +0000",
-      "potato": "2024-12-02 06:07:01 +0000"
+      "potato": "2024-12-02 06:07:01 +0000",
+      "bread": "2024-12-02 06:59:48 +0000"
     },
     "done": false
   },

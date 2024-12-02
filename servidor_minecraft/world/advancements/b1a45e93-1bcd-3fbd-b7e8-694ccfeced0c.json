@@ -251,7 +251,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-01 12:25:13 +0000",
-      "cooked_beef": "2024-12-01 12:29:07 +0000"
+      "cooked_beef": "2024-12-01 12:29:07 +0000",
+      "bread": "2024-12-02 06:55:06 +0000"
     },
     "done": false
   },
@@ -1776,6 +1777,18 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "melon_stem": "2024-12-02 06:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-02 06:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-02 06:49:20 +0000"
     },
     "done": true
   },
