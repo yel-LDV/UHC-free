@@ -528,7 +528,8 @@
       "minecraft:wither_skeleton": "2024-12-02 05:44:24 +0000",
       "minecraft:cave_spider": "2024-12-02 08:35:11 +0000",
       "minecraft:enderman": "2024-12-02 07:04:35 +0000",
-      "minecraft:zombie": "2024-12-01 12:57:13 +0000"
+      "minecraft:zombie": "2024-12-01 12:57:13 +0000",
+      "minecraft:zombie_villager": "2024-12-02 10:06:19 +0000"
     },
     "done": false
   },
@@ -2247,6 +2248,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-02 09:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-02 10:04:57 +0000"
     },
     "done": true
   },

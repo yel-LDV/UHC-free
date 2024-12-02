@@ -453,3 +453,16 @@
 [09:54:42] [Server thread/INFO]: neoangu[/127.204.135.86:45203] logged in with entity id 69638 at ([world]3385.620163377118, 63.59175027355549, -2329.166769778238)
 [09:56:16] [Server thread/INFO]: neoangu lost connection: Disconnected
 [09:56:16] [Server thread/INFO]: neoangu left the game
+[09:56:24] [User Authenticator #24/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[09:56:24] [Server thread/INFO]: neoangu joined the game
+[09:56:24] [Server thread/INFO]: neoangu[/127.204.135.86:56099] logged in with entity id 70615 at ([world]3424.8373485454626, 63.0, -2297.7670296834012)
+[09:57:11] [Server thread/INFO]: Villager EntityVillager['Farmer'/34233, uuid='85c045f5-d9ab-4b58-9b10-72e85bd51043', l='ServerLevel[world]', x=3375.43, y=37.00, z=-2307.25, cpos=[210, -145], tl=135184, v=true] died, message: 'Farmer was slain by ALFREDO1503'
+[09:57:52] [Server thread/INFO]: EasyClaz drowned
+[09:59:26] [Server thread/WARN]: neoangu moved too quickly! 12.260614783922847,-0.17675927506424216,2.569405914132858
+[10:03:15] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[10:03:15] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[10:04:32] [Server thread/INFO]: MasterGodPvP lost connection: Disconnected
+[10:04:32] [Server thread/INFO]: MasterGodPvP left the game
+[10:04:37] [Server thread/INFO]: EasyClaz lost connection: Disconnected
+[10:04:37] [Server thread/INFO]: EasyClaz left the game
+[10:05:18] [Server thread/INFO]: Villager EntityVillager['Nitwit'/34297, uuid='6a3f054b-bd7b-4cd7-b08a-ca23922481be', l='ServerLevel[world]', x=3391.56, y=62.94, z=-2329.47, cpos=[211, -146], tl=143333, v=true] died, message: 'Nitwit was slain by angelDL_'
