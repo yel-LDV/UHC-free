@@ -779,6 +779,8 @@
     "criteria": {
       "minecraft:blaze": "2024-12-02 05:38:42 +0000",
       "minecraft:skeleton": "2024-12-01 12:51:01 +0000",
+      "minecraft:hoglin": "2024-12-02 05:59:11 +0000",
+      "minecraft:zombified_piglin": "2024-12-02 05:51:41 +0000",
       "minecraft:wither_skeleton": "2024-12-02 05:40:13 +0000",
       "minecraft:zombie": "2024-12-01 13:16:18 +0000",
       "minecraft:zombie_villager": "2024-12-01 13:16:19 +0000"
@@ -1337,9 +1339,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-02 05:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
     },
     "done": true
   },
@@ -1417,9 +1437,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-12-02 05:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
     },
     "done": true
   },
@@ -1438,6 +1476,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-02 05:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
     },
     "done": true
   },
@@ -1480,6 +1524,18 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-02 05:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-02 05:49:43 +0000"
     },
     "done": true
   },
