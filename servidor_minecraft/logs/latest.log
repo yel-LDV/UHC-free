@@ -287,3 +287,37 @@
 [07:59:32] [Server thread/INFO]: neoangu[/127.204.135.86:40697] logged in with entity id 32257 at ([world]2971.1626982729044, 59.0, -2358.3496976684173)
 [08:03:37] [Server thread/WARN]: neoangu moved too quickly! 9.479019417247855,-2.0,3.0018798212588536
 [08:04:36] [Server thread/INFO]: Villager EntityVillager['Villager'/34104, uuid='c3900bf7-2cbb-463d-a60e-2dfb6f5f2e23', l='ServerLevel[world]', x=3329.37, y=67.00, z=-2342.28, cpos=[208, -147], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[08:05:11] [Async Chat Thread - #12/INFO]: [Not Secure] <angelDL_> 3211 -2362
+[08:05:16] [Async Chat Thread - #13/INFO]: [Not Secure] <angelDL_> 1890 -1700
+[08:05:18] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[08:05:18] [Server thread/INFO]: neoangu lost connection: Timed out
+[08:05:18] [Server thread/INFO]: neoangu left the game
+[08:05:18] [Async Chat Thread - #12/INFO]: [Not Secure] <ALFREDO1503> x3227 z-2376
+[08:05:24] [User Authenticator #17/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[08:05:24] [Server thread/INFO]: neoangu joined the game
+[08:05:24] [Server thread/INFO]: neoangu[/127.204.135.86:34571] logged in with entity id 34574 at ([world]3216.699999988079, 115.16819097901245, -2051.7879365689487)
+[08:05:51] [Async Chat Thread - #13/INFO]: [Not Secure] <angelDL_> 3211 -2362
+[08:06:03] [Async Chat Thread - #12/INFO]: [Not Secure] <ALFREDO1503> x3211 z2376
+[08:06:11] [Async Chat Thread - #13/INFO]: [Not Secure] <ALFREDO1503> -2376
+[08:06:30] [Server thread/WARN]: neoangu moved too quickly! 15.117570171433272,-8.399741266980698,-11.561877796315912
+[08:06:48] [Async Chat Thread - #12/INFO]: [Not Secure] <angelDL_> duerman!!!
+[08:06:50] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[08:06:51] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator
+[08:06:51] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
+[08:07:01] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[08:07:01] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[08:07:05] [Server thread/WARN]: neoangu moved too quickly! 17.173436011755257,0.0448124203990119,-5.667235838292527
+[08:07:09] [Server thread/WARN]: neoangu was kicked for floating too long!
+[08:07:09] [Server thread/INFO]: neoangu lost connection: Flying is not enabled on this server
+[08:07:09] [Server thread/INFO]: neoangu left the game
+[08:07:25] [User Authenticator #18/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[08:07:25] [Server thread/INFO]: neoangu joined the game
+[08:07:25] [Server thread/INFO]: neoangu[/127.204.135.86:49155] logged in with entity id 35140 at ([world]3265.201045380549, 77.34962714494952, -2145.3638046036344)
+[08:08:07] [Server thread/WARN]: neoangu moved too quickly! 14.099640827486837,0.7533202560193928,-19.173662167251678
+[08:08:10] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[08:08:10] [Server thread/INFO]: neoangu lost connection: Timed out
+[08:08:10] [Server thread/INFO]: neoangu left the game
+[08:09:00] [User Authenticator #19/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[08:09:00] [Server thread/INFO]: neoangu joined the game
+[08:09:00] [Server thread/INFO]: neoangu[/127.204.135.86:41091] logged in with entity id 35458 at ([world]3311.7530520407704, 63.72010726075615, -2184.144207018405)
+[08:10:43] [Async Chat Thread - #14/INFO]: [Not Secure] <angelDL_> 3382 -2325
