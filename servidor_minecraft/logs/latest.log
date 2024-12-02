@@ -436,3 +436,20 @@
 [09:42:05] [Async Chat Thread - #33/INFO]: [Not Secure] <MasterGodPvP> mutealooooooooooooooooo
 [09:42:11] [Async Chat Thread - #34/INFO]: [Not Secure] <ALFREDO1503> bajale
 [09:45:31] [Async Chat Thread - #35/INFO]: [Not Secure] <angelDL_> neo
+[09:47:01] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ tptpptptpt
+[09:47:08] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[09:47:08] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[09:47:15] [Server thread/INFO]: MasterGodPvP issued server command: /msg
+[09:47:18] [Server thread/INFO]: MasterGodPvP issued server command: /msg EasyClaz asd
+[09:49:44] [Server thread/INFO]: MasterGodPvP issued server command: /msg EasyClaz 9932 9791
+[09:50:20] [Async Chat Thread - #38/INFO]: [Not Secure] <neoangu> 2
+[09:53:49] [Server thread/INFO]: MasterGodPvP has made the advancement [Best Friends Forever]
+[09:54:12] [Server thread/WARN]: neoangu moved too quickly! -2.0168644802438394,0.9031272476744903,-10.000950444121827
+[09:54:36] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[09:54:36] [Server thread/INFO]: neoangu lost connection: Timed out
+[09:54:36] [Server thread/INFO]: neoangu left the game
+[09:54:42] [User Authenticator #23/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[09:54:42] [Server thread/INFO]: neoangu joined the game
+[09:54:42] [Server thread/INFO]: neoangu[/127.204.135.86:45203] logged in with entity id 69638 at ([world]3385.620163377118, 63.59175027355549, -2329.166769778238)
+[09:56:16] [Server thread/INFO]: neoangu lost connection: Disconnected
+[09:56:16] [Server thread/INFO]: neoangu left the game
