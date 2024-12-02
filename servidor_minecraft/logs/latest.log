@@ -466,3 +466,19 @@
 [10:04:37] [Server thread/INFO]: EasyClaz lost connection: Disconnected
 [10:04:37] [Server thread/INFO]: EasyClaz left the game
 [10:05:18] [Server thread/INFO]: Villager EntityVillager['Nitwit'/34297, uuid='6a3f054b-bd7b-4cd7-b08a-ca23922481be', l='ServerLevel[world]', x=3391.56, y=62.94, z=-2329.47, cpos=[211, -146], tl=143333, v=true] died, message: 'Nitwit was slain by angelDL_'
+[10:07:07] [Server thread/WARN]: neoangu moved too quickly! -8.16469836637907,-5.665155851313207,1.197373097855234
+[10:07:25] [Server thread/INFO]: angelDL_ issued server command: /difficulty hard
+[10:07:25] [Server thread/INFO]: [angelDL_: The difficulty has been set to Hard]
+[10:07:50] [Server thread/INFO]: Villager EntityVillager['Fletcher'/34099, uuid='307cbe23-733e-49b5-b9ac-0800b4c87a1b', l='ServerLevel[world]', x=3384.07, y=63.00, z=-2310.56, cpos=[211, -145], tl=148057, v=true] died, message: 'Fletcher was slain by Zombie'
+[10:08:04] [Server thread/INFO]: angelDL_ issued server command: /difficulty normal
+[10:08:04] [Server thread/INFO]: [angelDL_: The difficulty has been set to Normal]
+[10:10:33] [Server thread/INFO]: neoangu lost connection: Disconnected
+[10:10:33] [Server thread/INFO]: neoangu left the game
+[10:10:39] [User Authenticator #25/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[10:10:39] [Server thread/INFO]: neoangu joined the game
+[10:10:39] [Server thread/INFO]: neoangu[/127.204.135.86:51939] logged in with entity id 74643 at ([world]3336.5042721393293, 23.0, -2482.300000011921)
+[10:10:48] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
+[10:10:48] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
+[10:11:04] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[10:11:04] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[10:12:42] [Server thread/INFO]: angelDL_ has made the advancement [Local Brewery]
