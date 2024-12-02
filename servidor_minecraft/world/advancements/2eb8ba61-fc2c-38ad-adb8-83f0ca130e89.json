@@ -986,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-02 09:15:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-12-02 08:22:43 +0000"
@@ -1434,7 +1440,8 @@
       "cooked_porkchop": "2024-12-02 07:02:46 +0000",
       "bread": "2024-12-02 08:15:22 +0000",
       "glow_berries": "2024-12-02 07:46:20 +0000",
-      "melon_slice": "2024-12-02 07:05:16 +0000"
+      "melon_slice": "2024-12-02 07:05:16 +0000",
+      "cooked_salmon": "2024-12-02 09:20:57 +0000"
     },
     "done": false
   },
@@ -1537,6 +1544,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-02 07:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-02 09:15:31 +0000"
     },
     "done": true
   },
