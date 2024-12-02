@@ -386,7 +386,8 @@
       "porkchop": "2024-12-02 08:01:39 +0000",
       "potato": "2024-12-02 06:07:01 +0000",
       "mutton": "2024-12-02 07:45:00 +0000",
-      "bread": "2024-12-02 06:59:48 +0000"
+      "bread": "2024-12-02 06:59:48 +0000",
+      "cooked_salmon": "2024-12-02 08:59:17 +0000"
     },
     "done": false
   },
@@ -1859,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 09:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-02 08:22:53 +0000"
@@ -1880,6 +1887,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-02 08:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-02 08:56:57 +0000"
     },
     "done": true
   },
@@ -1997,9 +2010,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 09:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-02 08:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-02 08:58:44 +0000"
     },
     "done": true
   },
@@ -2078,6 +2103,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-02 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-02 08:56:57 +0000"
     },
     "done": true
   },

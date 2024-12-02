@@ -373,3 +373,16 @@
 [08:54:02] [Server thread/INFO]: MasterGodPvP[/127.76.177.166:52693] logged in with entity id 46235 at ([world]10006.39920645501, 69.0, 10006.93170949142)
 [08:54:38] [Async Chat Thread - #26/INFO]: [Not Secure] <MasterGodPvP> puto el que lo lea
 [08:55:13] [Server thread/INFO]: EasyClaz has made the advancement [Stone Age]
+[08:55:31] [Server thread/INFO]: MasterGodPvP issued server command: /skin putito
+[08:56:19] [Server thread/INFO]: EasyClaz has made the advancement [Getting an Upgrade]
+[08:56:26] [Server thread/INFO]: MasterGodPvP has made the advancement [Getting an Upgrade]
+[08:57:33] [Server thread/INFO]: MasterGodPvP issued server command: /skin shuerk
+[08:57:59] [Server thread/INFO]: MasterGodPvP issued server command: /skin EasyClaz
+[08:58:05] [Server thread/INFO]: MasterGodPvP issued server command: /skin EasyClaz
+[08:58:08] [Server thread/INFO]: MasterGodPvP issued server command: /skin EasyClaz
+[09:02:07] [Server thread/INFO]: MasterGodPvP issued server command: /skin shuerkdesnudo
+[09:02:15] [Server thread/INFO]: MasterGodPvP issued server command: /skin shuerk
+[09:04:38] [Server thread/INFO]: EasyClaz has made the advancement [Acquire Hardware]
+[09:05:13] [Server thread/INFO]: EasyClaz has made the advancement [Isn't It Iron Pick]
+[09:05:28] [Server thread/INFO]: Villager EntityVillager['Farmer'/34227, uuid='5e338f9d-25d6-4470-92c7-9746d05b1bcd', l='ServerLevel[world]', x=3350.70, y=63.00, z=-2345.30, cpos=[209, -147], tl=73145, v=true] died, message: 'Farmer was slain by Zombie'
+[09:05:31] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ bro nosotros dejamos prendido el nether
