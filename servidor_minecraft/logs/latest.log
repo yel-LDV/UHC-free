@@ -236,3 +236,17 @@
 [07:31:50] [Async Chat Thread - #6/INFO]: [Not Secure] <angelDL_> duerman!!!
 [07:32:18] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [07:32:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[07:35:34] [Async Chat Thread - #8/INFO]: [Not Secure] <angelDL_> neo ve el mapa
+[07:35:49] [Async Chat Thread - #9/INFO]: [Not Secure] <angelDL_> neo ve el mapa
+[07:38:13] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator
+[07:38:13] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
+[07:38:32] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[07:38:32] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[07:41:30] [Server thread/WARN]: neoangu moved too quickly! 1.3875149790351315,-3.242997536752199,9.489113621568777
+[07:41:34] [Server thread/WARN]: neoangu was kicked for floating too long!
+[07:41:34] [Server thread/INFO]: neoangu lost connection: Flying is not enabled on this server
+[07:41:34] [Server thread/INFO]: neoangu left the game
+[07:42:18] [User Authenticator #12/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:42:18] [Server thread/INFO]: neoangu joined the game
+[07:42:18] [Server thread/INFO]: neoangu[/127.204.135.86:44381] logged in with entity id 28337 at ([world]2534.513571532256, 103.14837170205335, -2391.2820377349126)
+[07:43:12] [Async Chat Thread - #10/INFO]: [Not Secure] <angelDL_> duerman!!!
