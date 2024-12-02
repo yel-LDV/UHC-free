@@ -524,6 +524,7 @@
       "minecraft:spider": "2024-12-01 13:15:49 +0000",
       "minecraft:phantom": "2024-12-02 06:25:56 +0000",
       "minecraft:wither_skeleton": "2024-12-02 05:44:24 +0000",
+      "minecraft:cave_spider": "2024-12-02 08:35:11 +0000",
       "minecraft:enderman": "2024-12-02 07:04:35 +0000",
       "minecraft:zombie": "2024-12-01 12:57:13 +0000"
     },
@@ -1833,6 +1834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 08:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-02 08:22:53 +0000"
@@ -1866,6 +1873,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-02 08:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-02 08:35:24 +0000"
     },
     "done": true
   },
@@ -1911,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-02 08:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-02 08:18:24 +0000"
@@ -1941,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-02 08:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-02 08:22:53 +0000"
@@ -1950,6 +1975,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-02 08:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-02 08:35:24 +0000"
     },
     "done": true
   },
@@ -1971,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-02 08:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-02 08:13:35 +0000"
@@ -1980,6 +2017,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-02 08:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-02 08:35:24 +0000"
     },
     "done": true
   },
@@ -1998,6 +2047,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-02 08:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 08:36:14 +0000"
     },
     "done": true
   },
