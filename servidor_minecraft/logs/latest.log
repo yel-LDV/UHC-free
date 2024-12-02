@@ -508,3 +508,9 @@
 [11:24:44] [Server thread/INFO]: ALFREDO1503 lost connection: Disconnected
 [11:24:44] [Server thread/INFO]: ALFREDO1503 left the game
 [11:35:45] [Server thread/INFO]: angelDL_ has made the advancement [The Parrots and the Bats]
+[11:39:48] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[11:39:48] [Server thread/INFO]: neoangu lost connection: Timed out
+[11:39:48] [Server thread/INFO]: neoangu left the game
+[11:40:08] [User Authenticator #26/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[11:40:08] [Server thread/INFO]: neoangu joined the game
+[11:40:08] [Server thread/INFO]: neoangu[/127.204.135.86:39257] logged in with entity id 95421 at ([world]3387.659725936331, 63.0, -2318.2383834196385)
