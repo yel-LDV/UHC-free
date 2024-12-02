@@ -514,3 +514,5 @@
 [11:40:08] [User Authenticator #26/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
 [11:40:08] [Server thread/INFO]: neoangu joined the game
 [11:40:08] [Server thread/INFO]: neoangu[/127.204.135.86:39257] logged in with entity id 95421 at ([world]3387.659725936331, 63.0, -2318.2383834196385)
+[11:59:01] [Server thread/INFO]: neoangu lost connection: Disconnected
+[11:59:01] [Server thread/INFO]: neoangu left the game
