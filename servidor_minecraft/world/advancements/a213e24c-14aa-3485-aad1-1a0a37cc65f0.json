@@ -8,9 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-01 12:57:16 +0000",
+      "minecraft:bamboo_jungle": "2024-12-02 06:16:00 +0000",
       "minecraft:beach": "2024-12-01 12:32:00 +0000",
       "minecraft:mangrove_swamp": "2024-12-01 12:31:09 +0000",
       "minecraft:river": "2024-12-01 12:32:13 +0000",
+      "minecraft:stony_shore": "2024-12-02 06:19:32 +0000",
       "minecraft:forest": "2024-12-01 12:34:48 +0000",
       "minecraft:lush_caves": "2024-12-01 13:00:42 +0000",
       "minecraft:jungle": "2024-12-01 12:57:48 +0000",
@@ -1509,6 +1511,42 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-02 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-02 06:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-02 06:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-02 06:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 06:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 06:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 06:18:30 +0000"
     },
     "done": true
   },
