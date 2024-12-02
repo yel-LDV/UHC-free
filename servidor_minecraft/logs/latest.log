@@ -215,3 +215,13 @@
 [06:56:48] [Server thread/INFO]: angelDL_ issued server command: /skins
 [06:56:53] [Server thread/INFO]: angelDL_ issued server command: /skins
 [07:03:33] [Server thread/INFO]: ALFREDO1503 has made the advancement [Monster Hunter]
+[07:05:50] [Server thread/WARN]: Boat (vehicle of angelDL_) moved wrongly! 0.4128549024771928
+[07:05:50] [Server thread/WARN]: Boat (vehicle of angelDL_) moved wrongly! 0.4641420077937255
+[07:05:50] [Server thread/WARN]: Boat (vehicle of angelDL_) moved wrongly! 0.8635470167289441
+[07:05:50] [Server thread/WARN]: Boat (vehicle of angelDL_) moved wrongly! 0.9871958984861067
+[07:11:41] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[07:11:41] [Server thread/INFO]: neoangu lost connection: Timed out
+[07:11:41] [Server thread/INFO]: neoangu left the game
+[07:12:54] [User Authenticator #11/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:12:54] [Server thread/INFO]: neoangu joined the game
+[07:12:54] [Server thread/INFO]: neoangu[/127.204.135.86:38745] logged in with entity id 18581 at ([world]1677.699999988079, 69.0, -1805.471854383542)
