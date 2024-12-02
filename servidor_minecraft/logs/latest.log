@@ -489,3 +489,10 @@
 [10:30:22] [Server thread/INFO]: angelDL_ has reached the goal [Zombie Doctor]
 [10:32:49] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
 [10:32:49] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[10:41:48] [Server thread/INFO]: angelDL_ issued server command: /difficulty hard
+[10:41:48] [Server thread/INFO]: [angelDL_: The difficulty has been set to Hard]
+[10:41:53] [Server thread/INFO]: Villager EntityVillager['Fletcher'/34098, uuid='3dff37be-04d1-4a29-be1a-7f6f6cfd99c1', l='ServerLevel[world]', x=3381.49, y=63.00, z=-2310.30, cpos=[211, -145], tl=188916, v=true] died, message: 'Fletcher was slain by Zombie'
+[10:45:35] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator
+[10:45:35] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
+[10:46:18] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[10:46:18] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
