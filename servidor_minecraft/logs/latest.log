@@ -486,3 +486,6 @@
 [10:17:25] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
 [10:20:34] [Server thread/WARN]: ALFREDO1503 moved too quickly! 13.482719942939184,-0.6216000461578375,8.40040681380924
 [10:24:34] [Server thread/INFO]: Villager EntityVillager['Villager'/34105, uuid='f17406cb-60e3-436a-81ff-5194a748f95e', l='ServerLevel[world]', x=3348.39, y=63.00, z=-2380.72, cpos=[209, -149], tl=168153, v=true] died, message: 'Villager was slain by Zombie'
+[10:30:22] [Server thread/INFO]: angelDL_ has reached the goal [Zombie Doctor]
+[10:32:49] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[10:32:49] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
