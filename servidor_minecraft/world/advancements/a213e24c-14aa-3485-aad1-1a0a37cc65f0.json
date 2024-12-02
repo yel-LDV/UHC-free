@@ -507,6 +507,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-12-02 10:49:56 +0000",
       "minecraft:chicken": "2024-12-01 12:28:49 +0000"
     },
     "done": false
@@ -2254,6 +2255,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-12-02 10:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-02 10:53:48 +0000"
     },
     "done": true
   },
