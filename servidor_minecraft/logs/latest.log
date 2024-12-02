@@ -267,3 +267,23 @@
 [07:53:32] [Server thread/INFO]: neoangu lost connection: Timed out
 [07:53:32] [Server thread/INFO]: neoangu left the game
 [07:53:32] [Server thread/INFO]: Attempt to teleport removed player neoangu restricted
+[07:54:54] [User Authenticator #15/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:54:54] [Server thread/INFO]: neoangu joined the game
+[07:54:54] [Server thread/INFO]: neoangu[/127.204.135.86:43673] logged in with entity id 31260 at ([world]2861.136013983215, 61.9948643231392, -2419.4124017974973)
+[07:55:18] [Server thread/INFO]: neoangu lost connection: Disconnected
+[07:55:18] [Server thread/INFO]: neoangu left the game
+[07:55:53] [User Authenticator #15/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:55:53] [Server thread/INFO]: neoangu joined the game
+[07:55:53] [Server thread/INFO]: neoangu[/127.204.135.86:35081] logged in with entity id 31460 at ([world]2908.123283457931, 62.073264324665075, -2448.43060227935)
+[07:55:58] [Server thread/INFO]: neoangu lost connection: Disconnected
+[07:55:58] [Server thread/INFO]: neoangu left the game
+[07:56:10] [User Authenticator #15/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:56:10] [Server thread/INFO]: neoangu joined the game
+[07:56:10] [Server thread/INFO]: neoangu[/127.204.135.86:34559] logged in with entity id 31506 at ([world]2908.123283457931, 62.073264324665075, -2448.43060227935)
+[07:59:27] [Server thread/INFO]: neoangu lost connection: Disconnected
+[07:59:27] [Server thread/INFO]: neoangu left the game
+[07:59:32] [User Authenticator #16/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:59:32] [Server thread/INFO]: neoangu joined the game
+[07:59:32] [Server thread/INFO]: neoangu[/127.204.135.86:40697] logged in with entity id 32257 at ([world]2971.1626982729044, 59.0, -2358.3496976684173)
+[08:03:37] [Server thread/WARN]: neoangu moved too quickly! 9.479019417247855,-2.0,3.0018798212588536
+[08:04:36] [Server thread/INFO]: Villager EntityVillager['Villager'/34104, uuid='c3900bf7-2cbb-463d-a60e-2dfb6f5f2e23', l='ServerLevel[world]', x=3329.37, y=67.00, z=-2342.28, cpos=[208, -147], tl=191, v=true] died, message: 'Villager suffocated in a wall'
