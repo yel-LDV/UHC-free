@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-02 07:21:15 +0000",
       "minecraft:sunflower_plains": "2024-12-02 07:12:51 +0000",
       "minecraft:birch_forest": "2024-12-01 12:57:15 +0000",
       "minecraft:bamboo_jungle": "2024-12-02 06:08:58 +0000",
@@ -1851,6 +1852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-02 07:21:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-02 07:00:19 +0000"
@@ -1890,6 +1897,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-02 07:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 07:21:39 +0000"
     },
     "done": true
   },
