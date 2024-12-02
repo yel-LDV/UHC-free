@@ -9,14 +9,17 @@
     "criteria": {
       "minecraft:cherry_grove": "2024-12-02 07:21:08 +0000",
       "minecraft:sunflower_plains": "2024-12-02 07:15:00 +0000",
+      "minecraft:birch_forest": "2024-12-02 07:48:30 +0000",
       "minecraft:bamboo_jungle": "2024-12-02 06:44:46 +0000",
       "minecraft:beach": "2024-12-02 07:29:33 +0000",
       "minecraft:sparse_jungle": "2024-12-02 07:00:31 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 07:05:12 +0000",
       "minecraft:river": "2024-12-02 07:16:05 +0000",
       "minecraft:stony_shore": "2024-12-02 07:04:25 +0000",
+      "minecraft:lush_caves": "2024-12-02 07:45:45 +0000",
       "minecraft:jungle": "2024-12-02 06:57:48 +0000",
       "minecraft:ocean": "2024-12-02 07:05:46 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-02 07:46:31 +0000",
       "minecraft:savanna": "2024-12-02 06:41:26 +0000",
       "minecraft:plains": "2024-12-02 07:10:31 +0000"
     },
@@ -722,7 +725,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-02 07:04:01 +0000",
       "minecraft:spider": "2024-12-02 07:03:40 +0000",
-      "minecraft:phantom": "2024-12-02 07:03:33 +0000"
+      "minecraft:phantom": "2024-12-02 07:03:33 +0000",
+      "minecraft:zombie": "2024-12-02 07:44:39 +0000",
+      "minecraft:zombie_villager": "2024-12-02 07:45:05 +0000"
     },
     "done": false
   },
@@ -933,6 +938,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-02 07:02:46 +0000",
+      "glow_berries": "2024-12-02 07:46:20 +0000",
       "melon_slice": "2024-12-02 07:05:16 +0000"
     },
     "done": false

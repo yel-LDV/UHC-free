@@ -250,3 +250,20 @@
 [07:42:18] [Server thread/INFO]: neoangu joined the game
 [07:42:18] [Server thread/INFO]: neoangu[/127.204.135.86:44381] logged in with entity id 28337 at ([world]2534.513571532256, 103.14837170205335, -2391.2820377349126)
 [07:43:12] [Async Chat Thread - #10/INFO]: [Not Secure] <angelDL_> duerman!!!
+[07:47:03] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[07:47:03] [Server thread/INFO]: neoangu lost connection: Timed out
+[07:47:03] [Server thread/INFO]: neoangu left the game
+[07:47:31] [User Authenticator #13/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:47:31] [Server thread/INFO]: neoangu joined the game
+[07:47:31] [Server thread/INFO]: neoangu[/127.204.135.86:33777] logged in with entity id 29467 at ([world]2570.0465337653236, 57.0, -2370.5342139436825)
+[07:50:07] [Server thread/WARN]: neoangu was kicked for floating too long!
+[07:50:07] [Server thread/INFO]: neoangu lost connection: Flying is not enabled on this server
+[07:50:07] [Server thread/INFO]: neoangu left the game
+[07:50:32] [User Authenticator #14/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[07:50:32] [Server thread/INFO]: neoangu joined the game
+[07:50:32] [Server thread/INFO]: neoangu[/127.204.135.86:33687] logged in with entity id 30134 at ([world]2682.9635707793823, 66.02167597134077, -2411.0741092577227)
+[07:50:42] [Server thread/INFO]: angelDL_ has made the advancement [Take Aim]
+[07:53:32] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[07:53:32] [Server thread/INFO]: neoangu lost connection: Timed out
+[07:53:32] [Server thread/INFO]: neoangu left the game
+[07:53:32] [Server thread/INFO]: Attempt to teleport removed player neoangu restricted
