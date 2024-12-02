@@ -386,3 +386,23 @@
 [09:05:13] [Server thread/INFO]: EasyClaz has made the advancement [Isn't It Iron Pick]
 [09:05:28] [Server thread/INFO]: Villager EntityVillager['Farmer'/34227, uuid='5e338f9d-25d6-4470-92c7-9746d05b1bcd', l='ServerLevel[world]', x=3350.70, y=63.00, z=-2345.30, cpos=[209, -147], tl=73145, v=true] died, message: 'Farmer was slain by Zombie'
 [09:05:31] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ bro nosotros dejamos prendido el nether
+[09:05:41] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ sera q lo encuentran?
+[09:06:14] [Server thread/INFO]: MasterGodPvP has made the advancement [Isn't It Iron Pick]
+[09:08:03] [Server thread/INFO]: MasterGodPvP has made the advancement [Monster Hunter]
+[09:08:35] [Server thread/INFO]: EasyClaz has made the advancement [Monster Hunter]
+[09:08:37] [Server thread/WARN]: neoangu moved too quickly! 8.83559691134269,-11.844767995483398,2.1941897640431307
+[09:08:41] [Server thread/WARN]: neoangu was kicked for floating too long!
+[09:08:41] [Server thread/INFO]: neoangu lost connection: Flying is not enabled on this server
+[09:08:41] [Server thread/INFO]: neoangu left the game
+[09:08:47] [User Authenticator #22/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[09:08:47] [Server thread/INFO]: neoangu joined the game
+[09:08:47] [Server thread/INFO]: neoangu[/127.204.135.86:59491] logged in with entity id 51073 at ([world]3303.9648565231264, -33.44749789698342, -2293.485594962069)
+[09:10:04] [Server thread/INFO]: Villager EntityVillager['Nitwit'/34226, uuid='422ea447-a61e-480c-af03-b09bb5579894', l='ServerLevel[world]', x=3326.22, y=66.10, z=-2347.92, cpos=[207, -147], tl=78675, v=true] died, message: 'Nitwit was slain by Zombie'
+[09:11:10] [Server thread/WARN]: ALFREDO1503 moved too quickly! -10.944025745789986,0.0,-0.7175930582852743
+[09:13:22] [Server thread/INFO]: EasyClaz has made the advancement [Suit Up]
+[09:14:14] [Server thread/INFO]: angelDL_ has made the advancement [What a Deal!]
+[09:15:11] [Server thread/INFO]: angelDL_ issued server command: /tell neoangu te tepeo? de si no
+[09:15:25] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ siii
+[09:15:31] [Server thread/INFO]: ALFREDO1503 has made the advancement [What a Deal!]
+[09:15:33] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[09:15:33] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
