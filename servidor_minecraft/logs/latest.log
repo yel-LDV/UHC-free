@@ -498,3 +498,6 @@
 [10:46:18] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
 [10:47:28] [Server thread/INFO]: ALFREDO1503 has reached the goal [Zombie Doctor]
 [10:56:19] [Server thread/INFO]: ALFREDO1503 has made the advancement [Enchanter]
+[10:59:22] [Server thread/INFO]: ALFREDO1503 was blown up by Creeper
+[10:59:29] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[10:59:29] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
