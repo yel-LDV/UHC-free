@@ -794,7 +794,9 @@
     "criteria": {
       "minecraft:blaze": "2024-12-02 05:38:42 +0000",
       "minecraft:skeleton": "2024-12-01 12:51:01 +0000",
+      "minecraft:ghast": "2024-12-03 09:20:07 +0000",
       "minecraft:hoglin": "2024-12-02 05:59:11 +0000",
+      "minecraft:magma_cube": "2024-12-03 09:20:40 +0000",
       "minecraft:spider": "2024-12-02 06:12:00 +0000",
       "minecraft:creeper": "2024-12-02 06:27:14 +0000",
       "minecraft:slime": "2024-12-03 07:26:25 +0000",
@@ -2693,9 +2695,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-03 09:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2024-12-03 08:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-03 09:20:56 +0000"
     },
     "done": true
   },
@@ -2708,6 +2728,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-03 08:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:16:38 +0000"
     },
     "done": true
   },
@@ -2771,6 +2797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 09:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-12-03 08:22:15 +0000"
@@ -2825,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-03 09:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-03 08:23:18 +0000"
@@ -2855,9 +2893,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-03 09:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:16:38 +0000"
     },
     "done": true
   },
@@ -2873,6 +2923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-03 09:05:43 +0000"
@@ -2882,6 +2938,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-03 09:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:16:38 +0000"
     },
     "done": true
   },

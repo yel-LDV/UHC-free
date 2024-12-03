@@ -566,9 +566,11 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-02 07:04:01 +0000",
       "minecraft:hoglin": "2024-12-03 09:03:12 +0000",
+      "minecraft:magma_cube": "2024-12-03 09:20:47 +0000",
       "minecraft:spider": "2024-12-02 07:03:40 +0000",
       "minecraft:creeper": "2024-12-03 07:02:43 +0000",
       "minecraft:phantom": "2024-12-02 07:03:33 +0000",
+      "minecraft:piglin": "2024-12-03 09:17:33 +0000",
       "minecraft:zombie": "2024-12-02 07:44:39 +0000",
       "minecraft:drowned": "2024-12-02 07:54:10 +0000",
       "minecraft:zombie_villager": "2024-12-02 07:45:05 +0000"
@@ -2046,6 +2048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-03 07:05:04 +0000"
@@ -2085,6 +2093,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-03 07:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:10:03 +0000"
     },
     "done": true
   },
@@ -2187,6 +2201,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-03 09:01:33 +0000",
+      "minecraft:nether_wastes": "2024-12-03 09:14:49 +0000",
       "minecraft:basalt_deltas": "2024-12-03 08:54:49 +0000",
       "minecraft:warped_forest": "2024-12-03 08:55:21 +0000"
     },
@@ -2306,6 +2321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 09:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-03 08:13:57 +0000"
@@ -2417,6 +2438,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-03 05:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 09:10:35 +0000"
     },
     "done": true
   },
@@ -2606,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-03 08:20:12 +0000"
@@ -2657,6 +2690,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-03 06:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:10:03 +0000"
     },
     "done": true
   },
@@ -2798,9 +2837,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-03 07:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-03 09:10:03 +0000"
     },
     "done": true
   },

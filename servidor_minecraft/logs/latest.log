@@ -167,3 +167,13 @@
 [08:55:11] [Server thread/INFO]: angelDL_ has completed the challenge [Hot Tourist Destinations]
 [09:05:20] [Server thread/INFO]: angelDL_ has made the advancement [Oh Shiny]
 [09:05:39] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
+[09:10:00] [Server thread/WARN]: ALFREDO1503 moved too quickly! -0.3372972764101121,0.0,-10.510320174034689
+[09:12:17] [Server thread/INFO]: angelDL_ has made the advancement [Who is Cutting Onions?]
+[09:20:07] [Server thread/INFO]: angelDL_ has completed the challenge [Return to Sender]
+[09:21:44] [Async Chat Thread - #23/INFO]: [Not Secure] <ALFREDO1503> a
+[09:25:39] [Server thread/INFO]: angelDL_ lost connection: Disconnected
+[09:25:39] [Server thread/INFO]: angelDL_ left the game
+[09:25:39] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[09:26:00] [User Authenticator #7/INFO]: UUID of player angelDL_ is b1a45e93-1bcd-3fbd-b7e8-694ccfeced0c
+[09:26:00] [Server thread/INFO]: angelDL_ joined the game
+[09:26:00] [Server thread/INFO]: angelDL_[/127.53.1.160:45889] logged in with entity id 47769 at ([world]3218.251137507906, 65.0, -2363.9681528575866)
