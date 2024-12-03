@@ -84,3 +84,13 @@
 [06:00:02] [Server thread/INFO]: angelDL_[/127.53.1.160:47031] logged in with entity id 10390 at ([world]3385.5, 63.0, -2327.5)
 [06:05:51] [Async Chat Thread - #4/INFO]: [Not Secure] <angelDL_> donde esats neoangu
 [06:05:59] [Async Chat Thread - #5/INFO]: [Not Secure] <neoangu> en el aldeano zombien
+[06:09:52] [Server thread/INFO]: angelDL_ has made the advancement [Best Friends Forever]
+[06:10:18] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ bro me tpas me perdi:(
+[06:10:28] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[06:10:28] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[06:14:37] [Server thread/INFO]: neoangu was blown up by Creeper
+[06:14:45] [Server thread/INFO]: neoangu lost connection: Disconnected
+[06:14:45] [Server thread/INFO]: neoangu left the game
+[06:16:34] [User Authenticator #4/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[06:16:34] [Server thread/INFO]: neoangu joined the game
+[06:16:34] [Server thread/INFO]: neoangu[/127.204.135.86:53415] logged in with entity id 16051 at ([world]3384.133552935444, 63.22437780906019, -2327.2566952242005)

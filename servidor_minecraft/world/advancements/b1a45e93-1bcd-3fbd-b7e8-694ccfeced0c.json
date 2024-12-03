@@ -798,6 +798,7 @@
       "minecraft:zombified_piglin": "2024-12-02 05:51:41 +0000",
       "minecraft:witch": "2024-12-02 06:21:28 +0000",
       "minecraft:wither_skeleton": "2024-12-02 05:40:13 +0000",
+      "minecraft:cave_spider": "2024-12-03 06:14:55 +0000",
       "minecraft:enderman": "2024-12-02 07:45:27 +0000",
       "minecraft:zombie": "2024-12-01 13:16:18 +0000",
       "minecraft:drowned": "2024-12-02 07:55:16 +0000",
@@ -2634,6 +2635,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-03 05:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-03 06:09:52 +0000"
     },
     "done": true
   },
