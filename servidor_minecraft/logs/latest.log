@@ -114,3 +114,11 @@
 [07:42:26] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
 [07:45:12] [Async Chat Thread - #19/INFO]: [Not Secure] <angelDL_> 3356
 [07:45:17] [Async Chat Thread - #20/INFO]: [Not Secure] <angelDL_> -2237
+[07:53:13] [Server thread/INFO]: neoangu fell from a high place
+[07:53:35] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ me tpas ando lapareci en el spawn
+[07:53:41] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[07:53:41] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[07:57:56] [Server thread/INFO]: neoangu was shot by Skeleton
+[07:58:17] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ me volvieron a matar:(
+[07:58:35] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[07:58:35] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
