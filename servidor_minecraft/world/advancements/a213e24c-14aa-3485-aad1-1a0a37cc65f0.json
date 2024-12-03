@@ -2448,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-03 05:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-12-03 06:03:56 +0000"
@@ -2466,9 +2472,15 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "cured_zombie": "2024-12-03 05:24:59 +0000"
+      "has_gunpowder": "2024-12-03 06:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-03 06:25:25 +0000"
     },
     "done": true
   },
