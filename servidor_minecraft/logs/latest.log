@@ -155,3 +155,8 @@
 [08:16:23] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
 [08:36:38] [Server thread/INFO]: ALFREDO1503 has made the advancement [Tactical Fishing]
 [08:36:55] [Server thread/INFO]: angelDL_ has made the advancement [Tactical Fishing]
+[08:40:27] [Server thread/WARN]: Boat (vehicle of ALFREDO1503) moved wrongly! 1.3144880193823458
+[08:41:41] [Server thread/INFO]: angelDL_ issued server command: /difficulty normal
+[08:41:41] [Server thread/INFO]: [angelDL_: The difficulty has been set to Normal]
+[08:42:12] [Server thread/WARN]: Boat (vehicle of ALFREDO1503) moved wrongly! 3.2211581764350345
+[08:44:57] [Server thread/WARN]: Boat (vehicle of ALFREDO1503) moved wrongly! 3.1286807728793278
