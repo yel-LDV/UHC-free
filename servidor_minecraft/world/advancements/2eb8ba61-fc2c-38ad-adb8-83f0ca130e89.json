@@ -2048,6 +2048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-03 06:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-03 06:38:46 +0000"
