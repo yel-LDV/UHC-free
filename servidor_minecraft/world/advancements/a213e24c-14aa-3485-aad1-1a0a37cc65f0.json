@@ -24,6 +24,7 @@
       "minecraft:ocean": "2024-12-02 07:05:40 +0000",
       "minecraft:windswept_savanna": "2024-12-01 12:33:16 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-02 07:42:25 +0000",
+      "minecraft:meadow": "2024-12-03 06:01:23 +0000",
       "minecraft:savanna": "2024-12-01 12:15:15 +0000",
       "minecraft:plains": "2024-12-01 12:43:44 +0000"
     },
@@ -388,6 +389,7 @@
       "potato": "2024-12-02 06:07:01 +0000",
       "mutton": "2024-12-02 07:45:00 +0000",
       "bread": "2024-12-02 06:59:48 +0000",
+      "rotten_flesh": "2024-12-03 06:02:16 +0000",
       "cooked_salmon": "2024-12-02 08:59:17 +0000"
     },
     "done": false
@@ -2442,6 +2444,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-02 11:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-03 06:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-03 06:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-03 06:03:56 +0000"
     },
     "done": true
   },
