@@ -66,3 +66,5 @@
 [05:18:16] [Server thread/INFO]: angelDL_ issued server command: /difficulty hard
 [05:18:28] [Server thread/INFO]: Villager EntityVillager['Librarian'/26, uuid='be3d48b5-7feb-4c83-b0da-6fd4cdb5a235', l='ServerLevel[world]', x=3376.69, y=63.00, z=-2318.69, cpos=[211, -145], tl=306635, v=true] died, message: 'Librarian was slain by Zombie'
 [05:24:59] [Server thread/INFO]: neoangu has reached the goal [Zombie Doctor]
+[05:32:47] [Server thread/WARN]: neoangu moved wrongly!
+[05:35:22] [Server thread/INFO]: Villager EntityVillager['Librarian'/25, uuid='04f312f9-9e49-4edc-82bc-817cf1fa3b61', l='ServerLevel[world]', x=3373.30, y=63.00, z=-2316.51, cpos=[210, -145], tl=328667, v=true] died, message: 'Librarian was slain by Zombie'
