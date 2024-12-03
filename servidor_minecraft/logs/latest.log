@@ -63,3 +63,6 @@
 [05:09:22] [User Authenticator #1/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
 [05:09:22] [Server thread/INFO]: neoangu joined the game
 [05:09:22] [Server thread/INFO]: neoangu[/127.204.135.86:54445] logged in with entity id 645 at ([world]3384.194652100775, 63.0, -2317.6170453414366)
+[05:18:16] [Server thread/INFO]: angelDL_ issued server command: /difficulty hard
+[05:18:28] [Server thread/INFO]: Villager EntityVillager['Librarian'/26, uuid='be3d48b5-7feb-4c83-b0da-6fd4cdb5a235', l='ServerLevel[world]', x=3376.69, y=63.00, z=-2318.69, cpos=[211, -145], tl=306635, v=true] died, message: 'Librarian was slain by Zombie'
+[05:24:59] [Server thread/INFO]: neoangu has reached the goal [Zombie Doctor]
