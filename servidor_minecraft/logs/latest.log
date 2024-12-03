@@ -97,3 +97,6 @@
 [06:18:09] [Server thread/WARN]: neoangu moved too quickly! -3.481025630242584,0.4959870982234804,11.661602353510261
 [06:30:03] [Async Chat Thread - #7/INFO]: [Not Secure] <neoangu> 3406.300/1/-2184.160
 [06:30:13] [Async Chat Thread - #8/INFO]: [Not Secure] <angelDL_> 3354 -9 -2233
+[06:58:53] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[06:58:53] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[07:00:15] [Async Chat Thread - #9/INFO]: [Not Secure] <angelDL_> 3330 -2229
