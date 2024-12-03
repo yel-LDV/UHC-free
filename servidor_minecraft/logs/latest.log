@@ -160,3 +160,8 @@
 [08:41:41] [Server thread/INFO]: [angelDL_: The difficulty has been set to Normal]
 [08:42:12] [Server thread/WARN]: Boat (vehicle of ALFREDO1503) moved wrongly! 3.2211581764350345
 [08:44:57] [Server thread/WARN]: Boat (vehicle of ALFREDO1503) moved wrongly! 3.1286807728793278
+[08:54:37] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
+[08:54:49] [Server thread/INFO]: ALFREDO1503 has made the advancement [We Need to Go Deeper]
+[08:55:06] [Server thread/INFO]: angelDL_ issued server command: /difficulty normal
+[08:55:06] [Server thread/INFO]: [angelDL_: The difficulty has been set to Normal]
+[08:55:11] [Server thread/INFO]: angelDL_ has completed the challenge [Hot Tourist Destinations]
