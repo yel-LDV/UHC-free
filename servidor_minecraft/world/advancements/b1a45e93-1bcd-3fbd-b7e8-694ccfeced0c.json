@@ -795,6 +795,7 @@
       "minecraft:hoglin": "2024-12-02 05:59:11 +0000",
       "minecraft:spider": "2024-12-02 06:12:00 +0000",
       "minecraft:creeper": "2024-12-02 06:27:14 +0000",
+      "minecraft:slime": "2024-12-03 07:26:25 +0000",
       "minecraft:phantom": "2024-12-02 06:24:24 +0000",
       "minecraft:zombified_piglin": "2024-12-02 05:51:41 +0000",
       "minecraft:witch": "2024-12-02 06:21:28 +0000",
@@ -2642,6 +2643,24 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-03 06:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 07:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 07:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 07:26:30 +0000"
     },
     "done": true
   },
