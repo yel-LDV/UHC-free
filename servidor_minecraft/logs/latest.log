@@ -68,3 +68,12 @@
 [05:24:59] [Server thread/INFO]: neoangu has reached the goal [Zombie Doctor]
 [05:32:47] [Server thread/WARN]: neoangu moved wrongly!
 [05:35:22] [Server thread/INFO]: Villager EntityVillager['Librarian'/25, uuid='04f312f9-9e49-4edc-82bc-817cf1fa3b61', l='ServerLevel[world]', x=3373.30, y=63.00, z=-2316.51, cpos=[210, -145], tl=328667, v=true] died, message: 'Librarian was slain by Zombie'
+[05:49:25] [User Authenticator #2/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[05:49:25] [Server thread/INFO]: ALFREDO1503 joined the game
+[05:49:25] [Server thread/INFO]: ALFREDO1503[/127.221.185.43:41509] logged in with entity id 6847 at ([world]3276.7758921137192, 64.0, -2365.6917830311204)
+[05:52:18] [Async Chat Thread - #1/INFO]: [Not Secure] <ALFREDO1503> aqui you
+[05:52:21] [Async Chat Thread - #0/INFO]: [Not Secure] <ALFREDO1503> toi
+[05:54:24] [Server thread/INFO]: ALFREDO1503 has made the advancement [Take Aim]
+[05:54:40] [Server thread/INFO]: ALFREDO1503 was blown up by Creeper
+[05:55:09] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
+[05:56:19] [Async Chat Thread - #2/INFO]: [Not Secure] <angelDL_> 3124 -2435
