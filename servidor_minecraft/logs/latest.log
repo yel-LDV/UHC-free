@@ -122,3 +122,16 @@
 [07:58:17] [Server thread/INFO]: neoangu issued server command: /msg angelDL_ me volvieron a matar:(
 [07:58:35] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
 [07:58:35] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[08:03:26] [Server thread/INFO]: neoangu lost connection: Disconnected
+[08:03:26] [Server thread/INFO]: neoangu left the game
+[08:03:40] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
+[08:04:08] [Server thread/INFO]: angelDL_ issued server command: /skin endergeta777
+[08:04:20] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
+[08:05:01] [Server thread/INFO]: ALFREDO1503 issued server command: /skin ra
+[08:05:32] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
+[08:05:36] [User Authenticator #5/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[08:05:36] [Server thread/INFO]: neoangu joined the game
+[08:05:37] [Server thread/INFO]: neoangu[/127.204.135.86:40311] logged in with entity id 34531 at ([world]3348.5610849772384, -3.0, -2246.730077325169)
+[08:06:49] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 neoangu
+[08:06:49] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to neoangu]
+[08:07:01] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_.
