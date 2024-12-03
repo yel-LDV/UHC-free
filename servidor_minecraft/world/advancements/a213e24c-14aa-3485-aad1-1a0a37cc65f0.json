@@ -388,6 +388,7 @@
       "porkchop": "2024-12-02 08:01:39 +0000",
       "apple": "2024-12-03 05:15:52 +0000",
       "potato": "2024-12-02 06:07:01 +0000",
+      "cooked_cod": "2024-12-03 08:07:07 +0000",
       "mutton": "2024-12-02 07:45:00 +0000",
       "bread": "2024-12-02 06:59:48 +0000",
       "rotten_flesh": "2024-12-03 06:02:16 +0000",
@@ -2473,6 +2474,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-03 06:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-03 06:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-03 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-03 06:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-03 07:41:29 +0000"
@@ -2485,33 +2510,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-03 06:43:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-03 07:41:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-03 06:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-03 06:25:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-03 06:25:25 +0000"
     },
     "done": true
   },
