@@ -522,6 +522,7 @@
       "apple": "2024-12-04 05:26:46 +0000",
       "cooked_cod": "2024-12-03 07:58:37 +0000",
       "bread": "2024-12-02 08:15:22 +0000",
+      "golden_apple": "2024-12-04 06:25:47 +0000",
       "glow_berries": "2024-12-02 07:46:20 +0000",
       "melon_slice": "2024-12-02 07:05:16 +0000",
       "cooked_salmon": "2024-12-02 09:20:57 +0000",
@@ -2968,6 +2969,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-04 06:21:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-04 05:36:04 +0000"
@@ -2995,6 +3002,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-04 05:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-04 06:21:47 +0000"
     },
     "done": true
   },

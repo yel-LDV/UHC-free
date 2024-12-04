@@ -264,6 +264,7 @@
       "cooked_beef": "2024-12-01 12:29:07 +0000",
       "apple": "2024-12-03 08:12:40 +0000",
       "bread": "2024-12-02 06:55:06 +0000",
+      "golden_apple": "2024-12-04 06:26:24 +0000",
       "melon_slice": "2024-12-02 09:09:25 +0000",
       "golden_carrot": "2024-12-03 07:14:37 +0000"
     },
@@ -808,6 +809,7 @@
       "minecraft:cave_spider": "2024-12-03 06:14:55 +0000",
       "minecraft:piglin": "2024-12-03 09:02:32 +0000",
       "minecraft:enderman": "2024-12-02 07:45:27 +0000",
+      "minecraft:silverfish": "2024-12-04 06:19:40 +0000",
       "minecraft:zombie": "2024-12-01 13:16:18 +0000",
       "minecraft:drowned": "2024-12-02 07:55:16 +0000",
       "minecraft:zombie_villager": "2024-12-01 13:16:19 +0000"
@@ -3092,6 +3094,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-04 06:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-04 06:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-04 05:46:55 +0000"
@@ -3113,6 +3127,12 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2024-12-04 06:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-04 06:20:28 +0000"
     },
     "done": true
   },
@@ -3152,6 +3172,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-04 06:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-04 06:20:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2024-12-04 05:38:30 +0000"
@@ -3170,6 +3202,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-04 06:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-04 05:38:50 +0000"
@@ -3179,6 +3217,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-04 05:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-04 06:20:33 +0000"
     },
     "done": true
   },
@@ -3206,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-04 06:20:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-04 05:38:30 +0000"
@@ -3224,6 +3274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-04 06:20:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-04 05:41:16 +0000"
@@ -3233,6 +3289,18 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-04 05:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-04 06:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-04 06:21:45 +0000"
     },
     "done": true
   },
