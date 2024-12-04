@@ -16,6 +16,7 @@
       "minecraft:lukewarm_ocean": "2024-12-02 07:05:12 +0000",
       "minecraft:river": "2024-12-02 07:16:05 +0000",
       "minecraft:stony_shore": "2024-12-02 07:04:25 +0000",
+      "minecraft:dripstone_caves": "2024-12-04 06:11:20 +0000",
       "minecraft:forest": "2024-12-02 08:12:10 +0000",
       "minecraft:lush_caves": "2024-12-02 07:45:45 +0000",
       "minecraft:jungle": "2024-12-02 06:57:48 +0000",
@@ -574,6 +575,7 @@
       "minecraft:phantom": "2024-12-02 07:03:33 +0000",
       "minecraft:piglin": "2024-12-03 09:17:33 +0000",
       "minecraft:enderman": "2024-12-03 09:37:36 +0000",
+      "minecraft:silverfish": "2024-12-04 06:10:13 +0000",
       "minecraft:zombie": "2024-12-02 07:44:39 +0000",
       "minecraft:drowned": "2024-12-02 07:54:10 +0000",
       "minecraft:zombie_villager": "2024-12-02 07:45:05 +0000"
@@ -2951,6 +2953,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-04 05:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-04 06:10:05 +0000"
     },
     "done": true
   },

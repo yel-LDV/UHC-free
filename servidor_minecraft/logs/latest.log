@@ -133,3 +133,20 @@
 [06:04:37] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
 [06:10:05] [Server thread/INFO]: ALFREDO1503 has made the advancement [Eye Spy]
 [06:10:06] [Server thread/INFO]: angelDL_ has made the advancement [Eye Spy]
+[06:16:37] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator
+[06:16:37] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
+[06:17:19] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[06:17:19] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[06:17:56] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator ALFREDO1503
+[06:17:56] [Server thread/INFO]: [angelDL_: Set ALFREDO1503's game mode to Spectator Mode]
+[06:17:58] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[06:17:58] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[06:18:36] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[06:18:36] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[06:18:53] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[06:18:53] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[06:19:31] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival @a
+[06:19:31] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[06:19:31] [Server thread/INFO]: [angelDL_: Set ALFREDO1503's game mode to Survival Mode]
+[06:19:53] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[06:19:53] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
