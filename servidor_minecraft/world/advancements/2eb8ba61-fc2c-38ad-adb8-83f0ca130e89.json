@@ -517,6 +517,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-02 07:02:46 +0000",
       "cooked_beef": "2024-12-03 06:14:56 +0000",
+      "apple": "2024-12-04 05:26:46 +0000",
       "cooked_cod": "2024-12-03 07:58:37 +0000",
       "bread": "2024-12-02 08:15:22 +0000",
       "glow_berries": "2024-12-02 07:46:20 +0000",
@@ -2916,6 +2917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-04 05:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-04 05:10:03 +0000"
@@ -2931,6 +2938,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-04 05:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-04 05:36:04 +0000"
     },
     "done": true
   },
