@@ -154,3 +154,46 @@
 [06:21:46] [Server thread/INFO]: Scanning for legacy world dragon fight...
 [06:21:46] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
 [06:21:47] [Server thread/INFO]: ALFREDO1503 has made the advancement [The End?]
+[06:37:32] [Server thread/INFO]: angelDL_ has made the advancement [Free the End]
+[06:38:59] [Server thread/INFO]: ALFREDO1503 has made the advancement [Remote Getaway]
+[06:39:07] [Server thread/INFO]: angelDL_ has made the advancement [Remote Getaway]
+[06:39:50] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[06:39:50] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[06:40:44] [Server thread/WARN]: ALFREDO1503 moved too quickly! -1.653101536293093,1.024424088213685,-14.188248970740489
+[06:41:48] [Server thread/INFO]: angelDL_ has made the advancement [The City at the End of the Game]
+[06:41:49] [Server thread/INFO]: ALFREDO1503 has made the advancement [The City at the End of the Game]
+[06:44:07] [Server thread/INFO]: angelDL_ fell from a high place
+[06:44:16] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
+[06:44:16] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
+[06:44:21] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
+[06:44:21] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
+[06:44:31] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[06:44:31] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[06:44:39] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
+[06:44:39] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
+[06:44:53] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[06:44:53] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[06:45:16] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[06:45:16] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[06:48:19] [Server thread/INFO]: angelDL_ has completed the challenge [Great View From Up Here]
+[06:49:16] [Server thread/INFO]: ALFREDO1503 has reached the goal [Sky's the Limit]
+[06:49:22] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
+[06:49:22] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
+[06:50:12] [Server thread/INFO]: angelDL_ has reached the goal [Sky's the Limit]
+[06:50:40] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
+[06:50:40] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
+[06:50:57] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
+[06:50:57] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
+[06:54:27] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
+[06:54:27] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
+[06:55:20] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
+[06:55:20] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
+[06:56:21] [Server thread/INFO]: angelDL_ issued server command: /op ALFREDO1503
+[06:56:21] [Server thread/INFO]: [angelDL_: Made ALFREDO1503 a server operator]
+[06:56:26] [Async Chat Thread - #6/INFO]: [Not Secure] <angelDL_> ./stop
+[06:56:29] [Server thread/INFO]: angelDL_ lost connection: Disconnected
+[06:56:29] [Server thread/INFO]: angelDL_ left the game
+[06:57:48] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode creative
+[06:57:48] [Server thread/INFO]: [ALFREDO1503: Set own game mode to Creative Mode]
+[07:03:17] [Server thread/WARN]: ALFREDO1503 moved too quickly! -11.101967660506489,0.0,-24.559894963749116
+[07:04:28] [Server thread/WARN]: ALFREDO1503 moved too quickly! -20.70738583186926,0.0,7.213786364384077
