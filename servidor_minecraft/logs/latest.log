@@ -198,3 +198,42 @@
 [07:03:17] [Server thread/WARN]: ALFREDO1503 moved too quickly! -11.101967660506489,0.0,-24.559894963749116
 [07:04:28] [Server thread/WARN]: ALFREDO1503 moved too quickly! -20.70738583186926,0.0,7.213786364384077
 [07:12:34] [Server thread/INFO]: There are 1 of a max of 20 players online: ALFREDO1503
+[07:17:52] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode survival
+[07:17:52] [Server thread/INFO]: [ALFREDO1503: Set own game mode to Survival Mode]
+[07:20:41] [Server thread/INFO]: ALFREDO1503 lost connection: Disconnected
+[07:20:41] [Server thread/INFO]: ALFREDO1503 left the game
+[07:20:43] [User Authenticator #3/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[07:20:43] [Server thread/INFO]: ALFREDO1503 joined the game
+[07:20:43] [Server thread/INFO]: ALFREDO1503[/127.2.32.137:44117] logged in with entity id 30633 at ([world]5129.515450949852, 17.5, -1083.221799283774)
+[07:20:51] [Server thread/INFO]: ALFREDO1503 issued server command: /stop
+[07:20:51] [Server thread/INFO]: [ALFREDO1503: Stopping the server]
+[07:20:51] [Server thread/INFO]: Stopping server
+[07:20:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[07:20:51] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.0
+[07:20:51] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[07:20:51] [Server thread/INFO]: Saving players
+[07:20:51] [Server thread/INFO]: ALFREDO1503 lost connection: Server closed
+[07:20:51] [Server thread/INFO]: ALFREDO1503 left the game
+[07:20:51] [Server thread/INFO]: Saving worlds
+[07:20:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:20:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:20:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:20:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saved 625 block chunks, 267 entity chunks, 0 poi chunks in world 'world' in 0.69s
+[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:20:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 79 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:20:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1175 block chunks, 33 entity chunks, 0 poi chunks in world 'world_the_end' in 0.20s
+[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:20:52] [Server thread/INFO]: Flushing Chunk IO
+[07:20:52] [Server thread/INFO]: Closing Thread Pool
+[07:20:52] [Server thread/INFO]: Closing Server
