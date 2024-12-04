@@ -79,3 +79,16 @@
 [04:58:30] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
 [04:59:19] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
 [04:59:19] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[04:59:40] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[04:59:40] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[05:03:26] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
+[05:03:26] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
+[05:06:14] [User Authenticator #2/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[05:06:14] [Server thread/INFO]: ALFREDO1503 joined the game
+[05:06:14] [Server thread/INFO]: ALFREDO1503[/127.2.32.137:46929] logged in with entity id 3494 at ([world_nether]284.9881662410012, 44.0, -309.4096077996461)
+[05:06:25] [Async Chat Thread - #1/INFO]: [Not Secure] <ALFREDO1503> hazme tp
+[05:06:33] [Async Chat Thread - #0/INFO]: [Not Secure] <ALFREDO1503> rapidooooooooooo
+[05:06:33] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu ALFREDO1503
+[05:06:33] [Server thread/INFO]: [angelDL_: Teleported neoangu to ALFREDO1503]
+[05:06:45] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[05:06:46] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
