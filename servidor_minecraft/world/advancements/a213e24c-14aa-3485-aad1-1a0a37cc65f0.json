@@ -1378,9 +1378,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-02 05:58:43 +0000",
       "minecraft:soul_sand_valley": "2024-12-02 05:33:22 +0000",
-      "minecraft:nether_wastes": "2024-12-02 05:36:23 +0000"
+      "minecraft:nether_wastes": "2024-12-02 05:36:23 +0000",
+      "minecraft:basalt_deltas": "2024-12-04 04:57:23 +0000",
+      "minecraft:warped_forest": "2024-12-04 04:56:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2513,6 +2515,72 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-03 07:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-04 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-04 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:54:45 +0000"
     },
     "done": true
   },
