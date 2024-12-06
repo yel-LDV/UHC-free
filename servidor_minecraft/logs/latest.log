@@ -1,239 +1,164 @@
-[04:09:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:09:18] [ServerMain/INFO]: Loaded 7 recipes
-[04:09:19] [Server thread/INFO]: Starting minecraft server version 1.20
-[04:09:19] [Server thread/INFO]: Loading properties
-[04:09:19] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
-[04:09:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:09:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:09:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[08:05:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:05:22] [ServerMain/INFO]: Loaded 7 recipes
+[08:05:23] [Server thread/INFO]: Starting minecraft server version 1.20
+[08:05:23] [Server thread/INFO]: Loading properties
+[08:05:23] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[08:05:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:05:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:05:23] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[04:09:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[04:09:20] [Server thread/INFO]: Default game type: SURVIVAL
-[04:09:20] [Server thread/INFO]: Generating keypair
-[04:09:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:09:20] [Server thread/INFO]: Using epoll channel type
-[04:09:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:09:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:09:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.1.0
-[04:09:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.0 is now loaded. Registering protocol transformers and injecting...
-[04:09:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[04:09:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[04:09:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[04:09:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:09:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[04:09:23] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[04:09:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.0.
-[04:09:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:09:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:09:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:09:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:09:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:09:24] [Server thread/INFO]: Preparing level "world"
-[04:09:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:09:24] [Server thread/INFO]: Time elapsed: 225 ms
-[04:09:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:09:24] [Server thread/INFO]: Time elapsed: 111 ms
-[04:09:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:09:24] [Server thread/INFO]: Time elapsed: 71 ms
-[04:09:24] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.0
-[04:09:25] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[04:09:25] [Server thread/INFO]: Running delayed init tasks
-[04:09:25] [Server thread/INFO]: Done (5.416s)! For help, type "help"
-[04:09:25] [Server thread/INFO]: Timings Reset
-[04:09:25] [Craft Scheduler Thread - 4 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     Version: 15.4.4
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     Commit: dc501c7
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer]     This is the latest version!
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:09:25] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:09:25] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.1.0
-[04:09:28] [Server thread/INFO]: Server Plugins (2):
-[04:09:28] [Server thread/INFO]: Bukkit Plugins:
-[04:09:28] [Server thread/INFO]:  - SkinsRestorer, ViaVersion
-[04:09:35] [User Authenticator #0/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
-[04:09:38] [Server thread/INFO]: neoangu joined the game
-[04:09:38] [Server thread/INFO]: neoangu[/127.204.135.86:46199] logged in with entity id 195 at ([world]-4.5, 66.0, -7.5)
-[04:14:34] [Server thread/INFO]: neoangu lost connection: Disconnected
-[04:14:34] [Server thread/INFO]: neoangu left the game
-[04:52:24] [User Authenticator #1/INFO]: UUID of player angelDL_ is b1a45e93-1bcd-3fbd-b7e8-694ccfeced0c
-[04:52:24] [Server thread/INFO]: angelDL_ joined the game
-[04:52:24] [Server thread/INFO]: angelDL_[/127.53.1.160:42803] logged in with entity id 845 at ([world_nether]274.390516015099, 47.0, -332.673894468606)
-[04:52:32] [User Authenticator #1/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
-[04:52:32] [Server thread/INFO]: neoangu joined the game
-[04:52:32] [Server thread/INFO]: neoangu[/127.204.135.86:51069] logged in with entity id 1025 at ([world]19.30000001192093, 71.0, 35.69999998807907)
-[04:53:26] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu an
-[04:53:28] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
-[04:53:28] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
-[04:57:23] [Server thread/INFO]: neoangu has completed the challenge [Hot Tourist Destinations]
-[04:58:26] [Server thread/INFO]: neoangu was shot by Skeleton
-[04:58:30] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
-[04:58:30] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
-[04:59:19] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
-[04:59:19] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
-[04:59:40] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
-[04:59:40] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
-[05:03:26] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu angelDL_
-[05:03:26] [Server thread/INFO]: [angelDL_: Teleported neoangu to angelDL_]
-[05:06:14] [User Authenticator #2/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
-[05:06:14] [Server thread/INFO]: ALFREDO1503 joined the game
-[05:06:14] [Server thread/INFO]: ALFREDO1503[/127.2.32.137:46929] logged in with entity id 3494 at ([world_nether]284.9881662410012, 44.0, -309.4096077996461)
-[05:06:25] [Async Chat Thread - #1/INFO]: [Not Secure] <ALFREDO1503> hazme tp
-[05:06:33] [Async Chat Thread - #0/INFO]: [Not Secure] <ALFREDO1503> rapidooooooooooo
-[05:06:33] [Server thread/INFO]: angelDL_ issued server command: /tp neoangu ALFREDO1503
-[05:06:33] [Server thread/INFO]: [angelDL_: Teleported neoangu to ALFREDO1503]
-[05:06:45] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
-[05:06:46] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
-[05:11:03] [Server thread/INFO]: ALFREDO1503 has made the advancement [Into Fire]
-[05:16:51] [Async Chat Thread - #2/INFO]: [Not Secure] <neoangu> me tengo q terminar de equipar
-[05:21:31] [Async Chat Thread - #4/INFO]: [Not Secure] <neoangu> 85.859/36/86429
-[05:39:49] [Server thread/INFO]: angelDL_ issued server command: /skin verga
-[05:39:59] [Server thread/INFO]: angelDL_ issued server command: /skin moco
-[05:40:06] [Server thread/INFO]: angelDL_ issued server command: /skin pene
-[05:40:12] [Server thread/INFO]: angelDL_ issued server command: /skin 8
-[05:40:21] [Server thread/INFO]: angelDL_ issued server command: /skin bobicraft
-[05:40:28] [Server thread/INFO]: angelDL_ issued server command: /skin bobicraft -all
-[05:41:46] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
-[05:41:50] [Server thread/INFO]: angelDL_ issued server command: /skin bobicraft -all
-[05:42:10] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
-[05:42:33] [Server thread/INFO]: angelDL_ issued server command: /kick
-[05:42:38] [Server thread/INFO]: angelDL_ issued server command: /kick neoangu
-[05:42:38] [Server thread/INFO]: neoangu lost connection: Kicked by an operator
-[05:42:38] [Server thread/INFO]: neoangu left the game
-[05:42:38] [Server thread/INFO]: [angelDL_: Kicked neoangu: Kicked by an operator]
-[05:44:07] [Server thread/INFO]: angelDL_ issued server command: /skin nobleman
-[05:44:16] [Server thread/INFO]: angelDL_ issued server command: /skin 8
-[05:44:28] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:31] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:32] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:34] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:36] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:37] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:39] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:40] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:41] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:42] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:43] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:44] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:45] [Server thread/INFO]: angelDL_ issued server command: /skin random
-[05:44:51] [Server thread/INFO]: angelDL_ issued server command: /skin dream
-[05:44:55] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
-[05:45:29] [Server thread/INFO]: angelDL_ issued server command: /skin mrbeast
-[05:45:49] [Server thread/INFO]: angelDL_ issued server command: /skin mikecrack
-[05:45:59] [Server thread/INFO]: angelDL_ issued server command: /skin 8
-[06:04:37] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
-[06:04:37] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
-[06:10:05] [Server thread/INFO]: ALFREDO1503 has made the advancement [Eye Spy]
-[06:10:06] [Server thread/INFO]: angelDL_ has made the advancement [Eye Spy]
-[06:16:37] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator
-[06:16:37] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
-[06:17:19] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
-[06:17:19] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
-[06:17:56] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator ALFREDO1503
-[06:17:56] [Server thread/INFO]: [angelDL_: Set ALFREDO1503's game mode to Spectator Mode]
-[06:17:58] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
-[06:17:58] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
-[06:18:36] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
-[06:18:36] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
-[06:18:53] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
-[06:18:53] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
-[06:19:31] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival @a
-[06:19:31] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
-[06:19:31] [Server thread/INFO]: [angelDL_: Set ALFREDO1503's game mode to Survival Mode]
-[06:19:53] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
-[06:19:53] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
-[06:21:45] [Server thread/INFO]: angelDL_ has made the advancement [The End?]
-[06:21:46] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[06:21:46] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[06:21:47] [Server thread/INFO]: ALFREDO1503 has made the advancement [The End?]
-[06:37:32] [Server thread/INFO]: angelDL_ has made the advancement [Free the End]
-[06:38:59] [Server thread/INFO]: ALFREDO1503 has made the advancement [Remote Getaway]
-[06:39:07] [Server thread/INFO]: angelDL_ has made the advancement [Remote Getaway]
-[06:39:50] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
-[06:39:50] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
-[06:40:44] [Server thread/WARN]: ALFREDO1503 moved too quickly! -1.653101536293093,1.024424088213685,-14.188248970740489
-[06:41:48] [Server thread/INFO]: angelDL_ has made the advancement [The City at the End of the Game]
-[06:41:49] [Server thread/INFO]: ALFREDO1503 has made the advancement [The City at the End of the Game]
-[06:44:07] [Server thread/INFO]: angelDL_ fell from a high place
-[06:44:16] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
-[06:44:16] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
-[06:44:21] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
-[06:44:21] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
-[06:44:31] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
-[06:44:31] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
-[06:44:39] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
-[06:44:39] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
-[06:44:53] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
-[06:44:53] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
-[06:45:16] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
-[06:45:16] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
-[06:48:19] [Server thread/INFO]: angelDL_ has completed the challenge [Great View From Up Here]
-[06:49:16] [Server thread/INFO]: ALFREDO1503 has reached the goal [Sky's the Limit]
-[06:49:22] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
-[06:49:22] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
-[06:50:12] [Server thread/INFO]: angelDL_ has reached the goal [Sky's the Limit]
-[06:50:40] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
-[06:50:40] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
-[06:50:57] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
-[06:50:57] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
-[06:54:27] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
-[06:54:27] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
-[06:55:20] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
-[06:55:20] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
-[06:56:21] [Server thread/INFO]: angelDL_ issued server command: /op ALFREDO1503
-[06:56:21] [Server thread/INFO]: [angelDL_: Made ALFREDO1503 a server operator]
-[06:56:26] [Async Chat Thread - #6/INFO]: [Not Secure] <angelDL_> ./stop
-[06:56:29] [Server thread/INFO]: angelDL_ lost connection: Disconnected
-[06:56:29] [Server thread/INFO]: angelDL_ left the game
-[06:57:48] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode creative
-[06:57:48] [Server thread/INFO]: [ALFREDO1503: Set own game mode to Creative Mode]
-[07:03:17] [Server thread/WARN]: ALFREDO1503 moved too quickly! -11.101967660506489,0.0,-24.559894963749116
-[07:04:28] [Server thread/WARN]: ALFREDO1503 moved too quickly! -20.70738583186926,0.0,7.213786364384077
-[07:12:34] [Server thread/INFO]: There are 1 of a max of 20 players online: ALFREDO1503
-[07:17:52] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode survival
-[07:17:52] [Server thread/INFO]: [ALFREDO1503: Set own game mode to Survival Mode]
-[07:20:41] [Server thread/INFO]: ALFREDO1503 lost connection: Disconnected
-[07:20:41] [Server thread/INFO]: ALFREDO1503 left the game
-[07:20:43] [User Authenticator #3/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
-[07:20:43] [Server thread/INFO]: ALFREDO1503 joined the game
-[07:20:43] [Server thread/INFO]: ALFREDO1503[/127.2.32.137:44117] logged in with entity id 30633 at ([world]5129.515450949852, 17.5, -1083.221799283774)
-[07:20:51] [Server thread/INFO]: ALFREDO1503 issued server command: /stop
-[07:20:51] [Server thread/INFO]: [ALFREDO1503: Stopping the server]
-[07:20:51] [Server thread/INFO]: Stopping server
-[07:20:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
-[07:20:51] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.0
-[07:20:51] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[07:20:51] [Server thread/INFO]: Saving players
-[07:20:51] [Server thread/INFO]: ALFREDO1503 lost connection: Server closed
-[07:20:51] [Server thread/INFO]: ALFREDO1503 left the game
-[07:20:51] [Server thread/INFO]: Saving worlds
-[07:20:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:20:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:20:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:20:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saved 625 block chunks, 267 entity chunks, 0 poi chunks in world 'world' in 0.69s
-[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:20:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 79 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:20:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:20:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1175 block chunks, 33 entity chunks, 0 poi chunks in world 'world_the_end' in 0.20s
-[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:20:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:20:52] [Server thread/INFO]: Flushing Chunk IO
-[07:20:52] [Server thread/INFO]: Closing Thread Pool
-[07:20:52] [Server thread/INFO]: Closing Server
+[08:05:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[08:05:24] [Server thread/INFO]: Default game type: SURVIVAL
+[08:05:24] [Server thread/INFO]: Generating keypair
+[08:05:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:05:24] [Server thread/INFO]: Using epoll channel type
+[08:05:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:05:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[08:05:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.1.0
+[08:05:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.0 is now loaded. Registering protocol transformers and injecting...
+[08:05:25] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[08:05:25] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[08:05:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[08:05:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:05:26] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[08:05:26] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[08:05:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.0.
+[08:05:27] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[08:05:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:05:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:05:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:05:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:05:27] [Server thread/INFO]: Preparing level "world"
+[08:05:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:05:28] [Server thread/INFO]: Time elapsed: 311 ms
+[08:05:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:05:28] [Server thread/INFO]: Time elapsed: 82 ms
+[08:05:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:05:28] [Server thread/INFO]: Time elapsed: 75 ms
+[08:05:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.0
+[08:05:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[08:05:28] [Server thread/INFO]: Running delayed init tasks
+[08:05:28] [Server thread/INFO]: Done (4.839s)! For help, type "help"
+[08:05:28] [Server thread/INFO]: Timings Reset
+[08:05:28] [Craft Scheduler Thread - 0 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[08:05:28] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.1.1, you're on: 5.1.0
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     Version: 15.4.4
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     Commit: dc501c7
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     This is the latest version!
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[08:05:28] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[08:05:36] [Server thread/INFO]: --------- Help: Index ---------------------------
+[08:05:36] [Server thread/INFO]: Use /help [n] to get page n of help.
+[08:05:36] [Server thread/INFO]: Aliases: Lists command aliases
+[08:05:36] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[08:05:36] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[08:05:36] [Server thread/INFO]: SkinsRestorer: All commands for SkinsRestorer
+[08:05:36] [Server thread/INFO]: ViaVersion: All commands for ViaVersion
+[08:05:36] [Server thread/INFO]: /advancement: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /attribute: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /ban: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /banlist: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /clear: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /clone: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /damage: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /data: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /datapack: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /debug: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /deop: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /effect: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /enchant: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /execute: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /experience: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /fill: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /fillbiome: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /forceload: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /function: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /give: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /help: Shows the help menu
+[08:05:36] [Server thread/INFO]: /item: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /jfr: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /kick: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /kill: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /list: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /locate: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /loot: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /me: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /msg: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /mspt: View server tick times
+[08:05:36] [Server thread/INFO]: /op: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /paper: Paper related commands
+[08:05:36] [Server thread/INFO]: /pardon: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /particle: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /perf: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /place: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /playsound: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[08:05:36] [Server thread/INFO]: /recipe: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[08:05:36] [Server thread/INFO]: /restart: Restarts the server
+[08:05:36] [Server thread/INFO]: /return: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /ride: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /save-all: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /save-off: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /save-on: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /say: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /schedule: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /seed: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /setblock: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /skin: Changes your own skin.
+[08:05:36] [Server thread/INFO]: /skins: Opens the skins GUI.
+[08:05:36] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /spectate: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /spigot: Spigot related commands
+[08:05:36] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /sr: Admin commands for SkinsRestorer.
+[08:05:36] [Server thread/INFO]: /stop: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /summon: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /tag: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /team: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /teleport: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /tell: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /time: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[08:05:36] [Server thread/INFO]: /title: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /tm: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /tp: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[08:05:36] [Server thread/INFO]: /trigger: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[08:05:36] [Server thread/INFO]: /viaversion: Shows ViaVersion Version and more.
+[08:05:36] [Server thread/INFO]: /w: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /weather: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[08:05:36] [Server thread/INFO]: /xp: A Mojang provided command.
+[08:09:46] [User Authenticator #0/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[08:09:48] [Server thread/INFO]: ALFREDO1503 joined the game
+[08:09:48] [Server thread/INFO]: ALFREDO1503[/127.188.132.74:34201] logged in with entity id 253 at ([world]5129.515450949852, 17.5, -1083.221799283774)
+[08:10:06] [Server thread/INFO]: Villager EntityVillager['Villager'/384, uuid='7aebf0d5-f463-4a1c-8536-67b72a361423', l='ServerLevel[world]', x=5185.01, y=65.94, z=-1016.60, cpos=[324, -64], tl=22279, v=true] died, message: 'Villager was slain by Zombie'
+[08:13:54] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode creative
+[08:13:54] [Server thread/INFO]: [ALFREDO1503: Set own game mode to Creative Mode]
