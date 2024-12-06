@@ -162,3 +162,8 @@
 [08:10:06] [Server thread/INFO]: Villager EntityVillager['Villager'/384, uuid='7aebf0d5-f463-4a1c-8536-67b72a361423', l='ServerLevel[world]', x=5185.01, y=65.94, z=-1016.60, cpos=[324, -64], tl=22279, v=true] died, message: 'Villager was slain by Zombie'
 [08:13:54] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode creative
 [08:13:54] [Server thread/INFO]: [ALFREDO1503: Set own game mode to Creative Mode]
+[08:23:26] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode su
+[08:23:34] [Server thread/INFO]: ALFREDO1503 issued server command: /gamemode survival
+[08:23:34] [Server thread/INFO]: [ALFREDO1503: Set own game mode to Survival Mode]
+[08:24:21] [Server thread/INFO]: ALFREDO1503 issued server command: /time set day
+[08:24:21] [Server thread/INFO]: [ALFREDO1503: Set the time to 1000]
