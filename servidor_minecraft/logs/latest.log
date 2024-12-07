@@ -78,3 +78,10 @@
 [04:16:08] [User Authenticator #1/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
 [04:16:09] [Server thread/INFO]: neoangu joined the game
 [04:16:09] [Server thread/INFO]: neoangu[/127.204.135.86:35955] logged in with entity id 1684 at ([world]3385.5904142969066, 63.0, -2316.841584334157)
+[04:29:33] [Async Chat Thread - #1/INFO]: [Not Secure] <ALFREDO1503> VEN NEO
+[04:31:24] [Async Chat Thread - #2/INFO]: [Not Secure] <neoangu> GRACIAS ALFREDO
+[04:34:22] [Server thread/INFO]: angelDL_ lost connection: Disconnected
+[04:34:22] [Server thread/INFO]: angelDL_ left the game
+[04:34:31] [User Authenticator #2/INFO]: UUID of player angelDL_ is b1a45e93-1bcd-3fbd-b7e8-694ccfeced0c
+[04:34:31] [Server thread/INFO]: angelDL_ joined the game
+[04:34:31] [Server thread/INFO]: angelDL_[/127.26.47.224:47317] logged in with entity id 8306 at ([world]3390.99757965859, 63.0, -2321.510002792315)
