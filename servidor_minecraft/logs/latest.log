@@ -85,3 +85,48 @@
 [04:34:31] [User Authenticator #2/INFO]: UUID of player angelDL_ is b1a45e93-1bcd-3fbd-b7e8-694ccfeced0c
 [04:34:31] [Server thread/INFO]: angelDL_ joined the game
 [04:34:31] [Server thread/INFO]: angelDL_[/127.26.47.224:47317] logged in with entity id 8306 at ([world]3390.99757965859, 63.0, -2321.510002792315)
+[04:38:59] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[04:38:59] [Server thread/INFO]: neoangu lost connection: Timed out
+[04:38:59] [Server thread/INFO]: neoangu left the game
+[04:39:07] [User Authenticator #3/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[04:39:07] [Server thread/INFO]: neoangu joined the game
+[04:39:07] [Server thread/INFO]: neoangu[/127.204.135.86:43837] logged in with entity id 9431 at ([world_nether]405.99532087793597, 60.15312379606114, -293.96549404709094)
+[04:39:11] [Server thread/INFO]: ALFREDO1503 lost connection: Disconnected
+[04:39:11] [Server thread/INFO]: ALFREDO1503 left the game
+[04:39:15] [User Authenticator #3/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[04:39:15] [Server thread/INFO]: ALFREDO1503 joined the game
+[04:39:15] [Server thread/INFO]: ALFREDO1503[/127.117.113.15:34163] logged in with entity id 9441 at ([world]3328.922786927917, 64.9375, -2330.4701512544775)
+[04:40:42] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503
+[04:40:42] [Server thread/INFO]: [angelDL_: Teleported angelDL_ to ALFREDO1503]
+[04:40:53] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[04:40:53] [Server thread/INFO]: neoangu lost connection: Timed out
+[04:40:53] [Server thread/INFO]: neoangu left the game
+[04:41:23] [User Authenticator #4/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[04:41:23] [Server thread/INFO]: neoangu joined the game
+[04:41:23] [Server thread/INFO]: neoangu[/127.204.135.86:54015] logged in with entity id 10109 at ([world_nether]344.3001136828281, 49.0, -275.9666691225409)
+[04:41:39] [Server thread/INFO]: neoangu lost connection: Disconnected
+[04:41:39] [Server thread/INFO]: neoangu left the game
+[04:41:44] [User Authenticator #4/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[04:41:44] [Server thread/INFO]: neoangu joined the game
+[04:41:44] [Server thread/INFO]: neoangu[/127.204.135.86:48531] logged in with entity id 10138 at ([world_nether]344.3001136828281, 49.0, -275.9666691225409)
+[04:42:42] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
+[04:42:42] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
+[04:42:55] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[04:42:55] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[04:44:07] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[04:44:07] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[04:44:49] [Async Chat Thread - #4/INFO]: [Not Secure] <neoangu> boyyy laag
+[04:44:59] [Async Chat Thread - #5/INFO]: [Not Secure] <angelDL_> ahorita los tpeo
+[04:45:46] [Server thread/WARN]: Strider (vehicle of angelDL_) moved wrongly! 0.7202987071411134
+[04:45:53] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[04:45:53] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
+[04:46:08] [Server thread/INFO]: angelDL_ has made the advancement [This Boat Has Legs]
+[04:46:49] [Async Chat Thread - #6/INFO]: [Not Secure] <ALFREDO1503> queeeee
+[04:46:59] [Async Chat Thread - #7/INFO]: [Not Secure] <neoangu> toy lag
+[04:47:20] [Async Chat Thread - #6/INFO]: [Not Secure] <neoangu> 70
+[04:47:48] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[04:47:48] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
+[04:48:07] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator
+[04:48:07] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
+[04:48:23] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[04:48:23] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
