@@ -130,3 +130,34 @@
 [04:48:07] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
 [04:48:23] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
 [04:48:23] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[04:48:54] [Server thread/INFO]: angelDL_ issued server command: /gamemode spectator
+[04:48:54] [Server thread/INFO]: [angelDL_: Set own game mode to Spectator Mode]
+[04:49:32] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[04:49:32] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[04:51:11] [Server thread/WARN]: Strider (vehicle of ALFREDO1503) moved wrongly! 0.6189269709658731
+[04:51:11] [Server thread/WARN]: Strider (vehicle of ALFREDO1503) moved wrongly! 0.7659544675605616
+[04:51:11] [Server thread/WARN]: Strider (vehicle of ALFREDO1503) moved wrongly! 0.8271481267046568
+[04:51:11] [Server thread/WARN]: Strider (vehicle of ALFREDO1503) moved wrongly! 0.8673124956733602
+[04:51:30] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[04:51:30] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[04:52:15] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[04:52:15] [Server thread/INFO]: neoangu lost connection: Timed out
+[04:52:15] [Server thread/INFO]: neoangu left the game
+[04:52:50] [Server thread/INFO]: angelDL_ issued server command: /tp ALFREDO1503 angelDL_
+[04:52:50] [Server thread/INFO]: [angelDL_: Teleported ALFREDO1503 to angelDL_]
+[04:52:51] [Server thread/INFO]: ALFREDO1503 has completed the challenge [Hot Tourist Destinations]
+[04:53:05] [User Authenticator #5/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[04:53:05] [Server thread/INFO]: neoangu joined the game
+[04:53:05] [Server thread/INFO]: neoangu[/127.204.135.86:42367] logged in with entity id 11879 at ([world_nether]143.30000001192093, 37.0, -269.294154209438)
+[04:53:10] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[04:53:10] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
+[04:53:11] [Server thread/INFO]: ALFREDO1503 has made the advancement [A Terrible Fortress]
+[04:57:47] [Async Chat Thread - #8/INFO]: [Not Secure] <angelDL_> es que entregue mi formulario de calculo
+[04:58:10] [Async Chat Thread - #9/INFO]: [Not Secure] <angelDL_> y puse en una formula, mientras sean del mismo sexo en una broma internaç
+[04:58:16] [Async Chat Thread - #8/INFO]: [Not Secure] <angelDL_> y lo leyo
+[04:58:23] [Server thread/WARN]: angelDL_ moved too quickly! 10.207398062367034,0.8322033533667508,-0.5317372890277738
+[04:58:33] [Server thread/INFO]: angelDL_ lost connection: Disconnected
+[04:58:33] [Server thread/INFO]: angelDL_ left the game
+[04:58:35] [User Authenticator #6/INFO]: UUID of player angelDL_ is b1a45e93-1bcd-3fbd-b7e8-694ccfeced0c
+[04:58:35] [Server thread/INFO]: angelDL_ joined the game
+[04:58:35] [Server thread/INFO]: angelDL_[/127.26.47.224:49331] logged in with entity id 12611 at ([world_nether]110.74581688596297, 63.0, -161.5446024886949)
