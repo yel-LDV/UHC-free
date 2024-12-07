@@ -192,3 +192,102 @@
 [05:08:14] [Async Chat Thread - #12/INFO]: [Not Secure] <neoangu> traen flechas q me den??
 [05:08:20] [Async Chat Thread - #13/INFO]: [Not Secure] <ALFREDO1503> si
 [05:08:26] [Async Chat Thread - #12/INFO]: [Not Secure] <neoangu> me das??
+[05:09:05] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[05:09:05] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
+[05:09:09] [Async Chat Thread - #13/INFO]: [Not Secure] <neoangu> flechaaas
+[05:09:15] [Server thread/INFO]: angelDL_ issued server command: /summon minecraft:wither_skeleton
+[05:09:15] [Server thread/INFO]: [angelDL_: Summoned new Wither Skeleton]
+[05:09:25] [Server thread/INFO]: angelDL_ issued server command: /difficulty normal
+[05:09:36] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
+[05:09:36] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
+[05:09:48] [Async Chat Thread - #12/INFO]: [Not Secure] <neoangu> yo tengo pot de fuerza
+[05:11:27] [Async Chat Thread - #14/INFO]: [Not Secure] <neoangu> pa q
+[05:12:00] [Async Chat Thread - #15/INFO]: [Not Secure] <neoangu> haci ya lo matamos
+[05:12:53] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~200 ~200 ~200 minecraft:the_end
+[05:13:00] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~200 ~20 ~200 minecraft:the_end
+[05:13:04] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~200 ~ ~200 minecraft:the_end
+[05:13:11] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~20 ~ ~20 minecraft:the_end
+[05:13:11] [Server thread/INFO]: [angelDL_: 36 biome entry/entries set between 316, 80, -1320 and 336, 80, -1300]
+[05:13:15] [Server thread/INFO]: ALFREDO1503 issued server command: /skin random
+[05:13:15] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~20 ~ ~20 minecraft:the_end
+[05:13:15] [Server thread/INFO]: [angelDL_: 36 biome entry/entries set between 320, 80, -1324 and 340, 80, -1304]
+[05:13:15] [Server thread/WARN]: neoangu was kicked due to keepalive timeout!
+[05:13:15] [Server thread/INFO]: neoangu lost connection: Timed out
+[05:13:15] [Server thread/INFO]: neoangu left the game
+[05:13:18] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~20 ~ ~20 minecraft:the_end
+[05:13:18] [Server thread/INFO]: [angelDL_: 36 biome entry/entries set between 320, 88, -1352 and 340, 88, -1332]
+[05:13:27] [User Authenticator #8/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[05:13:27] [Server thread/INFO]: neoangu joined the game
+[05:13:27] [Server thread/INFO]: neoangu[/127.204.135.86:41483] logged in with entity id 15776 at ([world]339.57891567759316, 68.0, -1310.1033460175108)
+[05:13:32] [Server thread/INFO]: angelDL_ issued server command: /fill ~ ~ ~ ~20 ~ ~
+[05:13:40] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~20 ~ ~20 minecraft:the_end
+[05:13:40] [Server thread/INFO]: [angelDL_: 36 biome entry/entries set between 312, 64, -1332 and 332, 64, -1312]
+[05:13:44] [Server thread/INFO]: angelDL_ issued server command: /fillbiome ~ ~ ~ ~20 ~ ~20 minecraft:the_end
+[05:13:44] [Server thread/INFO]: [angelDL_: 36 biome entry/entries set between 312, 64, -1344 and 332, 64, -1324]
+[05:14:02] [Server thread/INFO]: neoangu lost connection: Disconnected
+[05:14:02] [Server thread/INFO]: neoangu left the game
+[05:14:15] [User Authenticator #8/INFO]: UUID of player neoangu is a213e24c-14aa-3485-aad1-1a0a37cc65f0
+[05:14:15] [Server thread/INFO]: neoangu joined the game
+[05:14:15] [Server thread/INFO]: neoangu[/127.204.135.86:47961] logged in with entity id 16008 at ([world]340.7871961743508, 68.0, -1305.9622102319877)
+[05:14:27] [Server thread/INFO]: angelDL_ issued server command: /fill ~ ~ ~ ~50 ~ ~50 minecraft:bedrock
+[05:14:27] [Server thread/INFO]: [angelDL_: Successfully filled 2601 block(s)]
+[05:14:32] [Async Chat Thread - #16/INFO]: [Not Secure] <neoangu> mucho laag
+[05:14:33] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[05:14:33] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
+[05:14:40] [Server thread/INFO]: angelDL_ issued server command: /summon minecraft:wither
+[05:14:40] [Server thread/INFO]: [angelDL_: Summoned new Wither]
+[05:14:40] [Server thread/INFO]: angelDL_ issued server command: /summon minecraft:wither
+[05:14:40] [Server thread/INFO]: [angelDL_: Summoned new Wither]
+[05:14:41] [Server thread/INFO]: angelDL_ issued server command: /summon minecraft:wither
+[05:14:41] [Server thread/INFO]: [angelDL_: Summoned new Wither]
+[05:14:41] [Server thread/INFO]: angelDL_ issued server command: /summon minecraft:wither
+[05:14:41] [Server thread/INFO]: [angelDL_: Summoned new Wither]
+[05:14:42] [Server thread/INFO]: angelDL_ issued server command: /summon minecraft:wither
+[05:14:42] [Server thread/INFO]: [angelDL_: Summoned new Wither]
+[05:14:43] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[05:14:43] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
+[05:15:11] [Server thread/INFO]: neoangu has reached the goal [Postmortal]
+[05:15:19] [Server thread/INFO]: neoangu was shot by a skull from Wither
+[05:15:20] [Server thread/INFO]: angelDL_ has reached the goal [Postmortal]
+[05:15:25] [Server thread/INFO]: ALFREDO1503 lost connection: Disconnected
+[05:15:25] [Server thread/INFO]: ALFREDO1503 left the game
+[05:15:34] [Server thread/INFO]: angelDL_ issued server command: /gamerule keepInventory true
+[05:15:34] [Server thread/INFO]: [angelDL_: Gamerule keepInventory is now set to: true]
+[05:15:35] [Async Chat Thread - #18/INFO]: [Not Secure] <neoangu> tptptpt
+[05:15:36] [Server thread/INFO]: angelDL_ issued server command: /gamemode creative
+[05:15:36] [Server thread/INFO]: [angelDL_: Set own game mode to Creative Mode]
+[05:15:44] [Server thread/INFO]: angelDL_ issued server command: /kill e
+[05:15:47] [User Authenticator #9/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[05:15:47] [Server thread/INFO]: ALFREDO1503 joined the game
+[05:15:47] [Server thread/INFO]: ALFREDO1503[/127.117.113.15:36437] logged in with entity id 16987 at ([world]289.245878746824, 78.13521000550531, -1292.0299100834452)
+[05:15:51] [Server thread/INFO]: ALFREDO1503 lost connection: Disconnected
+[05:15:51] [Server thread/INFO]: ALFREDO1503 left the game
+[05:15:51] [Server thread/INFO]: angelDL_ issued server command: /kill @e
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/16615, uuid='62c9dc55-2187-4672-a289-ce1fbd5d3528', l='ServerLevel[world]', x=3376.70, y=63.00, z=-2318.53, cpos=[211, -145], tl=387641, v=true] died, message: 'Librarian was killed'
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Fletcher'/16617, uuid='892eb482-944e-4090-80c4-89a264319282', l='ServerLevel[world]', x=3381.47, y=63.00, z=-2313.15, cpos=[211, -145], tl=508212, v=true] died, message: 'Fletcher was killed'
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/16619, uuid='95fb5f5d-3e8d-49e8-ac0a-471c2aa478c8', l='ServerLevel[world]', x=3376.70, y=63.00, z=-2316.50, cpos=[211, -145], tl=336896, v=true] died, message: 'Librarian was killed'
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Fletcher'/16616, uuid='2429d27f-1c7d-4dce-9751-dbbc7a4d3a1a', l='ServerLevel[world]', x=3383.48, y=63.00, z=-2313.19, cpos=[211, -145], tl=528729, v=true] died, message: 'Fletcher was killed'
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Nitwit'/16624, uuid='2423bb9c-7440-4662-acd6-acc01cb8e520', l='ServerLevel[world]', x=3366.16, y=35.00, z=-2298.50, cpos=[210, -144], tl=704382, v=true] died, message: 'Nitwit was killed'
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Farmer'/16618, uuid='10afd61e-9056-4858-b8ea-2002756b7e8c', l='ServerLevel[world]', x=3379.54, y=63.00, z=-2313.20, cpos=[211, -145], tl=703843, v=true] died, message: 'Farmer was killed'
+[05:15:51] [Server thread/INFO]: angelDL_ was killed
+[05:15:51] [Server thread/INFO]: neoangu was killed
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/16613, uuid='8517aee6-5f42-4f6c-9647-9043a773274b', l='ServerLevel[world]', x=3376.70, y=63.00, z=-2320.50, cpos=[211, -146], tl=703539, v=true] died, message: 'Librarian was killed'
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Villager'/58, uuid='4e0dfdfb-11c6-412f-a8ba-6c72000e7fa7', l='ServerLevel[world]', x=-164.50, y=64.00, z=29.85, cpos=[-11, 1], tl=13986, v=true] died, message: 'Villager was killed'
+[05:15:51] [Server thread/INFO]: Villager EntityVillager['Nitwit'/57, uuid='285201ad-2d9c-4281-8376-5f54bc48eed6', l='ServerLevel[world]', x=-164.57, y=64.00, z=28.89, cpos=[-11, 1], tl=14014, v=true] died, message: 'Nitwit was killed'
+[05:15:51] [Server thread/INFO]: [angelDL_: Killed 778 entities]
+[05:15:56] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[05:15:56] [Server thread/INFO]: Attempt to teleport removed player neoangu restricted
+[05:15:56] [Server thread/INFO]: [angelDL_: Teleported 2 entities to angelDL_]
+[05:16:09] [Async Chat Thread - #19/INFO]: [Not Secure] <neoangu> tptptpt
+[05:16:14] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[05:16:14] [Server thread/INFO]: [angelDL_: Teleported 2 entities to angelDL_]
+[05:17:16] [Async Chat Thread - #20/INFO]: [Not Secure] <neoangu> mataste los aldeanos
+[05:17:18] [User Authenticator #10/INFO]: UUID of player ALFREDO1503 is 2eb8ba61-fc2c-38ad-adb8-83f0ca130e89
+[05:17:18] [Server thread/INFO]: ALFREDO1503 joined the game
+[05:17:18] [Server thread/INFO]: ALFREDO1503[/127.117.113.15:55363] logged in with entity id 18570 at ([world]285.2625486558117, 78.39426414865193, -1295.1440390313521)
+[05:17:18] [Async Chat Thread - #21/INFO]: [Not Secure] <neoangu> siii
+[05:17:59] [Server thread/INFO]: angelDL_ issued server command: /tp @a angelDL_
+[05:17:59] [Server thread/INFO]: [angelDL_: Teleported 3 entities to angelDL_]
+[05:18:01] [Async Chat Thread - #20/INFO]: [Not Secure] <neoangu> toca hacer uno bien legal
+[05:18:33] [Server thread/INFO]: angelDL_ issued server command: /gamemode survival
+[05:18:33] [Server thread/INFO]: [angelDL_: Set own game mode to Survival Mode]
